@@ -1,0 +1,1080 @@
+aardvark    
+adder    
+Afghan hound    
+alligator    
+alpaca    
+Alsatian    
+amphibian    
+amphibious    
+anaconda    
+angora    
+animal    
+anteater    
+antelope    
+antler    
+ape    
+armadillo    
+asp    
+assistance dog    
+attack dog    
+baa    
+baa    
+baboon    
+badger    
+bandicoot    
+bark    
+bark    
+basset    
+bat    
+beagle    
+bear    
+beast    
+beaver    
+behaviour    
+big cat    
+bilby    
+billy goat    
+bird dog    
+bison    
+bitch    
+bitzer    
+blackface    
+bloodhound    
+blue whale    
+boa    
+boa constrictor    
+boar    
+bobcat    
+Border collie    
+borzoi    
+boxer    
+breed    
+breed    
+brood mare    
+buck    
+buffalo    
+bull    
+bulldog    
+bullfrog    
+bull mastiff    
+bullock    
+bull terrier    
+bunny    
+burrow    
+bushbaby    
+bushmaster    
+cage    
+caiman    
+calf    
+calico cat    
+calve    
+camel    
+camouflage    
+canine    
+canter    
+canter    
+capybara    
+carnivore    
+carthorse    
+cat    
+cattle    
+cayman    
+chameleon    
+chamois    
+cheetah    
+chestnut    
+chihuahua    
+chimpanzee    
+chinchilla    
+chipmunk    
+civet    
+class    
+claw    
+cloven hoof    
+coat    
+coati    
+cobra    
+cocker    
+cold-blooded    
+collie    
+colony    
+colt    
+copperhead    
+coral snake    
+corgi    
+cottonmouth    
+cougar    
+cow    
+coyote    
+coypu    
+creature    
+croak    
+croak    
+croc    
+crocodile    
+cross-breed    
+cub    
+cull    
+cur    
+dachshund    
+Dalmatian    
+deer    
+deerhound    
+den    
+die out 
+dingo    
+dinosaur    
+doe    
+dog    
+dogie    
+dolphin    
+dolphinarium    
+domestic    
+domesticate    
+domesticated    
+donkey    
+dormouse    
+drey    
+dromedary    
+drove    
+duck-billed platypus    
+dugong    
+echidna    
+elephant    
+elk    
+elkhound    
+endangered    
+endoskeleton    
+ewe    
+extinct    
+extinction    
+family    
+fang    
+farrow    
+farrow    
+fauna    
+fawn    
+feed    
+feline    
+ferret    
+fetlock    
+filly    
+flank    
+fleece    
+flipper    
+flock    
+fluff    
+flying fox    
+flying squirrel    
+foal    
+forefoot    
+foreleg    
+forelock    
+forever home    
+four-legged friend    
+fox    
+foxhound    
+fox terrier    
+Friesian    
+frog    
+froglet    
+frogspawn    
+fruit bat    
+fur    
+furry    
+gallop    
+gallop    
+game    
+garter snake    
+gecko    
+gelding    
+genet    
+genus    
+gerbil    
+German shepherd    
+giant panda    
+gibbon    
+giraffe    
+goat    
+golden retriever    
+gopher    
+gorilla    
+grass snake    
+graze    
+Great Dane    
+greyhound    
+groundhog    
+growl    
+growl    
+grunt    
+grunt    
+guard dog    
+Guernsey    
+guide dog    
+guinea pig    
+gun dog    
+habitat    
+hackles    
+hamster    
+hare    
+harem    
+hart    
+hearing dog    
+hedgehog    
+heifer    
+herd    
+hibernate    
+hide    
+Highland cattle    
+hind    
+hind    
+hindlimb    
+hindquarters    
+hippo    
+hippopotamus    
+hock    
+hog    
+hognose snake    
+Holstein    
+hoof    
+horn    
+horse    
+hound    
+hound dog    
+house-broken    
+house-trained    
+hump    
+humpback    
+humpback whale    
+hunter    
+husky    
+hutch    
+hyaena    
+hyena    
+hyrax    
+ibex    
+iguana    
+indigenous    
+jackal    
+jackrabbit    
+jaguar    
+jaw    
+jersey    
+kangaroo    
+kennel    
+kid    
+kinkajou    
+kitten    
+kitty    
+koala    
+Komodo dragon    
+krait    
+Labrador    
+lair    
+lamb    
+lapdog    
+leash    
+leatherback    
+lemming    
+lemur    
+leopard    
+lion    
+litter    
+lizard    
+llama    
+lodge    
+longhair    
+longhorn    
+lop ears    
+lurcher    
+lynx    
+mamba    
+mammal    
+manatee    
+mane    
+Manx cat    
+mare    
+marmalade cat    
+marmot    
+marsupial    
+marten    
+mastiff    
+mate    
+mate    
+meerkat    
+meow    
+miaow    
+miaow    
+microchip    
+mink    
+mob    
+moggie    
+mole    
+molt    
+mongoose    
+mongrel    
+monitor    
+monkey    
+monotreme    
+moo    
+moo    
+moult    
+mountain lion    
+mouse    
+mouser    
+mule    
+musk ox    
+muskrat    
+mustang    
+mutt    
+muzzle    
+nanny goat    
+natterjack    
+neigh    
+neigh    
+neuter    
+newt    
+nuzzle    
+ocelot    
+okapi    
+Old English sheepdog    
+opossum    
+orangutan    
+order    
+otter    
+ox    
+pachyderm    
+pack    
+pack animal    
+packhorse    
+pack rat    
+pad    
+palomino    
+panda    
+pangolin    
+panther    
+pastern    
+paw    
+peccary    
+pedigree    
+Pekinese    
+pelt    
+pet    
+pet sitter    
+phylum    
+pig    
+piglet    
+pine marten    
+pit viper    
+platypus    
+pod    
+pointer    
+poisonous    
+polar bear    
+polecat    
+police dog    
+polliwog    
+pony    
+poodle    
+porcupine    
+porpoise    
+potto    
+pouch    
+prairie dog    
+prairie wolf    
+predator    
+predatory    
+prey    
+pride    
+primate    
+puff adder    
+pug    
+puma    
+pup    
+puppy    
+purr    
+pussy    
+python    
+rabbit    
+raccoon    
+race    
+racoon    
+ram    
+rare breed    
+rat    
+rattlesnake    
+red panda    
+reindeer    
+reptile    
+reptilian    
+retriever    
+rhinoceros    
+roan    
+roan    
+roar    
+roar    
+rodent    
+roo    
+Rottweiler    
+ruminant    
+rump    
+running dog    
+sable    
+salamander    
+sausage dog    
+scale    
+schnauzer    
+Scottie    
+Scottish terrier    
+seal    
+sea lion    
+sea turtle    
+Seeing Eye dog™    
+serpent    
+sett    
+setter    
+shank    
+sheep    
+sheepdog    
+shell    
+Shetland pony    
+shorthair    
+shorthorn    
+shrew    
+Siamese cat    
+sidewinder    
+skink    
+skunk    
+slider    
+slither    
+sloth    
+snake    
+snarl    
+snarl    
+sniffer dog    
+snort    
+snort    
+snout    
+sow    
+spaniel    
+spay    
+species    
+spine    
+spiny anteater    
+squeak    
+squeak    
+squeal    
+squeal    
+squirrel    
+stag    
+stallion    
+steer    
+stoat    
+stroke    
+tabby    
+tadpole    
+tail    
+taipan    
+tame    
+tapir    
+teat    
+terrapin    
+terrier    
+tiger    
+toad    
+tom    
+tomcat    
+tortoise    
+tortoiseshell    
+tosa    
+tracker dog    
+tribe    
+trot    
+trot    
+trotter    
+trunk    
+turtle    
+tusk    
+udder    
+underbelly    
+vampire bat    
+venom    
+vermin    
+viper    
+vixen    
+vole    
+walk    
+wallaby    
+walrus    
+warm-blooded    
+warthog    
+waterbuck    
+water buffalo    
+water moccasin    
+water rat    
+water vole    
+weasel    
+whale    
+whimper    
+whimper    
+whippet    
+whisker    
+wild    
+wild boar    
+wildcat    
+wildlife    
+withers    
+wolf    
+wolfhound    
+wolverine    
+wombat    
+woodchuck    
+woof    
+woof    
+woof    
+wool    
+yak    
+Yorkshire terrier    
+zebra    
+zebu
+albatross    
+Arctic tern    
+aviary    
+avocet    
+bald eagle    
+bantam    
+barn owl    
+beak    
+bill    
+bird    
+bird of paradise    
+bird of passage    
+bird of prey    
+blackbird    
+bluebird    
+blue crane    
+bluejay    
+blue tit    
+booby    
+bowerbird    
+breast    
+breed    
+brood    
+budgerigar    
+budgie    
+bullfinch    
+bustard    
+buzzard    
+cage    
+call    
+call    
+Canada goose    
+canary    
+capercaillie    
+cardinal    
+carrier pigeon    
+carrion crow    
+cassowary    
+catbird    
+chaffinch    
+chick    
+chickadee    
+chicken    
+chirp    
+chough    
+claw    
+cluck    
+clutch    
+cock    
+cockatiel    
+cockatoo    
+cockerel    
+condor    
+coo    
+coop    
+coot    
+cormorant    
+corncrake    
+crane    
+craw    
+crest    
+crop    
+crow    
+cuckoo    
+curlew    
+cygnet    
+dipper    
+dive    
+dove    
+down    
+drake    
+drongo    
+duck    
+duckling    
+dunlin    
+dunnock    
+eagle    
+eagle owl    
+eaglet    
+egg    
+egret    
+emperor penguin    
+emu    
+falcon    
+feather    
+finch    
+flamingo    
+flight    
+fly    
+flycatcher    
+fowl    
+frigate bird    
+fulmar    
+gaggle    
+game    
+game bird    
+gander    
+gannet    
+gizzard    
+gobbler    
+goldcrest    
+golden eagle    
+goldfinch    
+goose    
+goshawk    
+gosling    
+grackle    
+grebe    
+grouse    
+guillemot    
+guinea fowl    
+gull    
+harrier    
+hatch    
+hatchling    
+hawk    
+hen    
+heron    
+herring gull    
+homing pigeon    
+hoopoe    
+hoot    
+hoot    
+hop    
+hop    
+hornbill    
+house martin    
+house sparrow    
+hover    
+hummingbird    
+ibis    
+incubate    
+jackdaw    
+jay    
+kestrel    
+kingfisher    
+kite    
+kittiwake    
+kiwi    
+kookaburra    
+lapwing    
+lark    
+lay    
+linnet    
+little owl    
+loon    
+lorikeet    
+lovebird    
+lyrebird    
+macaw    
+magpie    
+mandible    
+mate    
+mate    
+meadowlark    
+merlin    
+migrate    
+migration    
+missel thrush    
+mistle thrush    
+mockingbird    
+moorhen    
+mynah    
+nest    
+nest    
+nestling    
+nightingale    
+nightjar    
+nuthatch    
+oriole    
+osprey    
+ostrich    
+owl    
+owlet    
+oystercatcher    
+parakeet    
+parrot    
+partridge    
+peacock    
+peafowl    
+peahen    
+peck    
+peck    
+peewit    
+pelican    
+penguin    
+perch    
+peregrine    
+petrel    
+pheasant    
+pigeon    
+pipit    
+plover    
+plumage    
+poultry    
+prey    
+ptarmigan    
+puffin    
+quack    
+quack    
+quail    
+raven    
+razorbill    
+redshank    
+rhea    
+roadrunner    
+robin    
+rook    
+rookery    
+roost    
+roost    
+rooster    
+ruff    
+sand martin    
+sandpiper    
+seabird    
+seagull    
+secretary bird    
+shag    
+shearwater    
+shrike    
+skua    
+skylark    
+snipe    
+soar    
+song    
+songbird    
+sparrow    
+sparrowhawk    
+spoonbill    
+squawk    
+squawk    
+starling    
+stork    
+swallow    
+swan    
+swift    
+tail    
+talon    
+tawny owl    
+tern    
+thrush    
+tit    
+titmouse    
+toucan    
+turkey    
+turtle dove    
+tweet    
+tweet    
+twitter    
+twitter    
+vent    
+vulture    
+wader    
+waterfowl    
+wattle    
+weaver bird    
+whippoorwill    
+wing    
+wishbone    
+woodcock    
+woodpecker    
+wood pigeon    
+wren    
+yellowhammer
+abalone    
+anchovy    
+angelfish    
+aquarium    
+barnacle    
+barracouta    
+barracuda    
+barramundi    
+bass    
+beluga    
+bivalve    
+bluefish    
+bottom feeder    
+bowfin    
+brachiopod    
+bream    
+catfish    
+chinook    
+chub    
+clam    
+claw    
+cockle    
+cod    
+codfish    
+coelacanth    
+coley    
+conger    
+coral    
+crab    
+crawfish    
+cray    
+crayfish    
+crustacean    
+cuttlefish    
+dab    
+dogfish    
+dory    
+eel    
+egg    
+electric eel    
+elver    
+fin    
+fish    
+fishbowl    
+flatfish    
+flounder    
+freshwater    
+game fish    
+gill    
+goldfish    
+goldfish bowl    
+grilse    
+guppy    
+haddock    
+hake    
+halibut    
+harlequin fish    
+hatch    
+hermit crab    
+herring    
+hoki    
+horse mackerel    
+jellyfish    
+John Dory    
+koi    
+krill    
+lamprey    
+langouste    
+langoustine    
+lanternfish    
+lay    
+limpet    
+lobster    
+lugworm    
+lungfish    
+mackerel    
+manta    
+marlin    
+minnow    
+molly    
+moray    
+mudskipper    
+mullet    
+mussel    
+nautilus    
+oceanarium    
+octopus    
+oyster    
+perch    
+pike    
+pilchard    
+pincer    
+piranha    
+plaice    
+plankton    
+polyp    
+Portuguese man-of-war    
+prawn    
+pufferfish    
+rainbow trout    
+ray    
+razor shell    
+salmon    
+saltwater    
+sardine    
+scale    
+scallop    
+school    
+sea anemone    
+sea bass    
+sea cucumber    
+sea fish    
+seahorse    
+sea urchin    
+shark    
+shell    
+shellfish    
+shoal    
+shrimp    
+skate    
+skipjack    
+snapper    
+sole    
+spawn    
+sponge    
+sprat    
+squid    
+starfish    
+stickleback    
+stingray    
+sturgeon    
+sucker    
+swim    
+swordfish    
+tail    
+tench    
+tentacle    
+tiddler    
+tilapia    
+trout    
+tuna    
+tunny    
+turbot    
+vent    
+whelk    
+whitebait    
+whiting    
+winkle    
+wrasse
+abdomen    
+ant    
+antenna    
+ant lion    
+aphid    
+arachnid    
+arthropod    
+bedbug    
+bee    
+beetle    
+blackfly    
+black widow    
+boll weevil    
+brown recluse    
+bug    
+butterfly    
+buzz    
+caddis    
+caterpillar    
+centipede    
+chigger    
+chrysalis    
+cicada    
+cobweb    
+cockchafer    
+cockroach    
+cocoon    
+Colorado beetle    
+crane fly    
+crawl    
+creature    
+cricket    
+daddy-long-legs    
+damselfly    
+deathwatch beetle    
+dragonfly    
+earthworm    
+earwig    
+egg    
+exoskeleton    
+feeler    
+fire ant    
+firefly    
+flatworm    
+flea    
+fly    
+fly    
+flying    
+furniture beetle    
+glow-worm    
+gnat    
+gogga    
+grasshopper    
+greenfly    
+grub    
+gypsy moth    
+harvestman    
+hatch    
+hive    
+hookworm    
+hornet    
+insect    
+invertebrate    
+invertebrate    
+jigger    
+lacewing    
+ladybird    
+larva    
+lay    
+leech    
+lightning bug    
+liver fluke    
+locust    
+louse    
+maggot    
+mandible    
+mantis    
+May bug    
+mayfly    
+midge    
+millipede    
+minibeast    
+mite    
+mollusc    
+money spider    
+mosquito    
+moth    
+nematode    
+nest    
+nit    
+nymph    
+pest    
+plague    
+poisonous    
+pond skater    
+praying mantis    
+pupa    
+queen    
+red admiral    
+roundworm    
+scarab    
+scorpion    
+silkworm    
+silverfish    
+slug    
+snail    
+Spanish fly    
+spider    
+stag beetle    
+stick insect    
+sting    
+sting    
+swarm    
+tapeworm    
+tarantula    
+termite    
+thorax    
+threadworm    
+tick    
+venom    
+wasp    
+water strider    
+web    
+weevil    
+woodlouse    
+woodworm    
+worm

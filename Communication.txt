@@ -1,0 +1,889 @@
+ablative    
+ablative    
+abbreviation
+abstract     
+accent    
+accusative    
+accusative    
+active    
+active    
+acute accent 
+adjective   
+adjectival    
+advanced    
+ad    
+adial
+adverb   
+affirmative    
+affix    
+Afrikaans    
+agree    
+agreement    
+alliteration    
+allophone    
+allusion    
+alphabet    
+ampersand    
+analogy    
+anaphor    
+anaphora    
+Anglicism    
+Anglo-Saxon    
+anthropomorphic    
+anthropomorphism    
+antithesis    
+apostrophe    
+apposition    
+appositional    
+appositional    
+Arabic    
+Aramaic    
+archaism    
+argument    
+article    
+articulate    
+articulate    
+aspirate    
+aspirate    
+assonance    
+asterisk    
+attributive    
+aural    
+auxiliary    
+backslash    
+Bahasa Indonesia    
+Bahasa Malaysia    
+Bangla    
+Basque    
+beginner    
+Bengali    
+bilabial    
+binomial    
+brace    
+bracket    
+Breton    
+broad    
+brush up 
+brush up on 
+bullet point    
+cacophony    
+calque    
+Cantonese    
+cardinal    
+Carib    
+Catalan    
+cataphor    
+cataphora    
+cedilla    
+character    
+chiasmus    
+Chinese    
+circumflex    
+circumlocution    
+clause    
+closed syllable    
+cluster    
+code word    
+coherent    
+coinage    
+collocation    
+colloquialism    
+colon    
+comma    
+common     
+communication    
+comparative    
+comparative    
+complement    
+compound    
+compound    
+conditional    
+conditional    
+conjugate    
+conjunction    
+consonant    
+continuant    
+continuant    
+continuous    
+contraction    
+Cornish    
+countable    
+count     
+Creole    
+Danish    
+dash    
+dative    
+dative    
+declension    
+decline    
+defining    
+definite article    
+deontic    
+dependent clause    
+derivative    
+descriptor    
+determiner    
+Dharuk    
+diaeresis    
+dialect    
+diphthong    
+direct object    
+direct speech    
+ditto    
+dot    
+double negative    
+drill    
+drill    
+elide    
+elision    
+ellipsis    
+elliptical    
+encode    
+ending    
+English    
+enjambement    
+epithet    
+Erse    
+Etruscan    
+etymological    
+etymology    
+euphemism 
+exclamation      
+mark    
+expression    
+fable    
+faultless    
+feminine    
+feminine    
+Filipino    
+Flemish    
+fluency    
+fluent    
+form    
+form    
+free form    
+French    
+fricative    
+future    
+gabble    
+Gaelic    
+Gaulish    
+gender    
+gender-neutral    
+generative grammar    
+genitive    
+genitive    
+German    
+gerund    
+glide    
+glottal    
+glottal stop    
+grammar    
+grammatical    
+grave    
+Greek    
+Gujarati    
+Gullah    
+hard    
+Hausa    
+Hebrew    
+heritage language    
+holophrasis    
+homograph    
+homonym    
+homophone    
+homophonous    
+hyperbole    
+hyphen    
+hyphenate    
+Ibo    
+idiolect   
+idiomatic 
+idiom   
+Igbo    
+imperative    
+imperative    
+imperfect    
+inarticulate    
+incomprehensibility    
+incomprehensible    
+indefinite article    
+independent clause    
+indicative    
+indicative    
+indirect object    
+indirect speech    
+infinitive    
+inflection    
+innuendo    
+interjection    
+intermediate    
+intermediate    
+internal rhyme    
+interrogative    
+interrogative    
+intonation    
+intransitive    
+inversion    
+inverted commas    
+Irish    
+ironic    
+irony    
+irregular    
+isiXhosa    
+isiZulu    
+Italian    
+jargon    
+Javanese    
+Kannada    
+Khmer    
+Kiswahili    
+labial    
+labiodental    
+labiovelar    
+Lahnda    
+language    
+language transfer    
+Latin    
+lexeme    
+lexical unit    
+lexis    
+linguistic    
+linguistics    
+litotes    
+loan translation    
+locative    
+main clause    
+malapropism    
+Malay    
+Malayalam    
+Maltese    
+Maori    
+Marathi    
+masculine    
+masculine    
+master    
+metaphor    
+metonymy    
+Middle English 
+modal verb   
+mood    
+morpheme    
+Nahuatl    
+nasal    
+native speaker    
+negative    
+neologism    
+neuter    
+nominative    
+nominative    
+non-count    
+non-defining    
+non sequitur
+noun    
+Norse    
+number    
+object    
+Occitan    
+Old English    
+Old Norse    
+onomatopoeia    
+oral    
+oral    
+ordinal    
+Oriya    
+oxymoron    
+palatal    
+palindrome    
+paradox    
+paragraph    
+parenthesis    
+parse    
+participle    
+particle    
+part of speech    
+Pashto    
+passive    
+passive    
+past    
+past    
+past participle    
+pathetic fallacy    
+perfect    
+perfect    
+perfect    
+period    
+Persian    
+person    
+personal pro    
+Phoenician   
+phrasal verb 
+phoneme    
+phonetics    
+phrase    
+Pictish    
+pidgin    
+pitch    
+pleonasm    
+plosive    
+pluperfect    
+plural    
+plural    
+point    
+polish    
+Polish    
+portmanteau word    
+Portuguese    
+positive    
+possessive    
+possessive    
+pound sign    
+practise    
+pragmatics    
+predeterminer    
+predicative    
+prefix    
+preposition    
+prepositional    
+present    
+present participle    
+primary stress    
+principal parts    
+progressive    
+pro    
+pronunciation    
+proper     
+prosody    
+Proto-Indo-European    
+pro    
+pun    
+punctuate    
+punctuation    
+punctuation mark    
+Punjabi    
+Quechua    
+question mark    
+question tag    
+quotation marks    
+quote    
+quote    
+reflexive    
+register    
+regular    
+relative    
+reported speech    
+rhetorical    
+rhotic    
+roll    
+Romani    
+round bracket    
+rounded    
+Russian    
+rusty    
+Sanskrit    
+sarcasm    
+satire    
+saying    
+schwa    
+secondary stress    
+semantics    
+semicolon    
+sentence    
+Shona    
+shwa    
+sibilant    
+simile    
+Sindhi    
+singular    
+singular    
+Sinhalese    
+slang    
+slash    
+soft    
+Spanish    
+spell    
+spelling    
+spirant    
+spoken word    
+spoonerism    
+stammer    
+the first person    
+the past perfect    
+the present perfect    
+the present tense    
+stress    
+stress    
+stressed    
+stress mark    
+stress-timed    
+stumble    
+subject    
+subjunctive    
+subjunctive    
+subordinate clause    
+suffix    
+superlative    
+superlative    
+Swahili    
+syllabic    
+syllable    
+syllable-timed    
+syncope    
+syntax    
+Tagalog    
+tag question    
+Taino    
+Tamil    
+tap    
+tautology    
+Telugu    
+tense    
+thorn    
+tilde    
+timbre    
+Tok Pisin    
+tone    
+transitive    
+trill    
+truism    
+Turkish    
+umlaut    
+uncountable    
+uncount     
+ungrammatical    
+unrounded    
+unvoiced    
+upspeak    
+uptalk    
+Urdu    
+uvular    
+Vedic    
+velar  
+verb        
+vocabulary    
+vocative    
+vocative    
+voice    
+voice    
+voiced    
+voiceless    
+vowel    
+Welsh    
+Wiradhuri    
+word    
+Xhosa    
+Yiddish    
+Yoruba    
+Yue    
+zeugma    
+Zulu
+access provider    
+account    
+ad blocker    
+address    
+address bar    
+address book    
+ADSL    
+AFAIC
+AFAIK
+airplane mode    
+alarm call    
+alert    
+anonymize    
+answering machine    
+answerphone    
+area code    
+atpreposition    
+attach    
+attachment    
+bandwidth    
+banner ad    
+battery    
+beep    
+beeper    
+be on the phone
+be on the telephone
+BF    
+BFF    
+bleep    
+bleeper    
+blog    
+blog    
+blogger    
+blogging    
+blogosphere    
+blog post    
+blogroll    
+blue pages    
+bookmark    
+bookmark    
+bounce    
+BRB    
+breakout room    
+broadband    
+browse    
+browser    
+bulletin board    
+burner    
+call    
+call    
+call back 
+callback    
+call box    
+caller    
+caller ID    
+call-in    
+call in 
+call up 
+call waiting    
+cardphone    
+careline    
+carpet-bomb    
+car phone    
+carrier    
+cc    
+cc    
+cell phone    
+cellular    
+chat    
+chat    
+chatline    
+chat room    
+citizen journalism    
+clickjacking    
+clickstream    
+CMC    
+cold-calling    
+communication    
+conference call    
+connect    
+connection    
+contact    
+cookie    
+copy in 
+courtesy call    
+cradle    
+cut off 
+cyber-combining form    
+cybercafe    
+cybernaut    
+cybersex    
+DD    
+deepfake    
+delete    
+dial    
+dial in 
+dial into 
+dialling code    
+dial-up    
+dial up 
+digital detox    
+digital media    
+direct dialling    
+direct marketing    
+directory    
+directory enquiries    
+disconnect    
+discussion forum    
+distance learning    
+DM    
+DM    
+DOI    
+domain    
+domain name    
+doomscrolling    
+dot-com    
+draft    
+draft    
+DW    
+earpiece    
+eBay    
+eBay    
+ego-surfing    
+email    
+emoji    
+emoticon    
+EMS    
+engaged    
+ex-directory    
+extension    
+e-zine    
+Facebook    
+favourite    
+fax    
+fax    
+feed    
+feed reader    
+filter    
+fixed-line    
+flame    
+flame    
+flash mob    
+flash mobbing    
+follow    
+followee    
+follower    
+follow request    
+forum    
+forward    
+Freephone    
+friend    
+friend    
+friend request    
+get hold of 
+get through 
+GF    
+google    
+Google    
+groom    
+handle    
+handset    
+hashtag    
+hate mail    
+hat tip    
+helpline    
+history    
+hold    
+home page    
+hook up 
+hotline    
+hotlink    
+hotspot    
+HTML    
+HTTP    
+hyperlink    
+hypertext    
+IDK    
+inbox    
+influencer    
+Instagram    
+instant message    
+instant-message    
+instant messaging    
+intercom    
+internet    
+internet of things    
+IoT    
+IP address    
+ISP    
+keypad    
+kiosk    
+landing page    
+landline    
+like    
+like    
+line    
+link    
+live    
+live-blog    
+live blog    
+live-tweet    
+local call    
+LOL    
+lolz    
+lolz    
+lulz    
+lulz    
+lurk    
+mail    
+mail    
+mailing list    
+message    
+message    
+message board    
+microblog    
+microblog    
+microblogging    
+mirror site    
+misdial    
+MMS    
+mobile    
+mobile    
+mobile phone    
+mod    
+mod    
+mouthpiece    
+mute    
+mute    
+mute button    
+MYOB    
+Myspace    
+navigate    
+netiquette    
+netizen    
+net surfer    
+newsgroup    
+newswire    
+notification    
+number    
+obvad
+obvsad    
+offline    
+offlinead    
+off the hook
+OMG    
+on hold
+online    
+operator    
+outbox    
+page    
+page    
+pager    
+payphone    
+person-to-person    
+phone    
+phone    
+phone booth    
+phone box    
+phone call    
+phone mast    
+phone number    
+picture messaging    
+ping    
+PM    
+PM    
+podcast    
+podcaster
+podcasting
+portal    
+post    
+post    
+predictive    
+profile    
+publish    
+push alert    
+push notification    
+push technology    
+put through 
+raise    
+repreposition    
+reach    
+receiver    
+redial    
+redial    
+reel    
+remote learning    
+retweet    
+retweet    
+reverse    
+reverse-charge    
+reverse-chargead    
+ring    
+ring around 
+ring back 
+ringback    
+ring in 
+ring off 
+ring round 
+ring through 
+scrambler    
+search engine    
+Second Life    
+send    
+service provider    
+share    
+silver surfer    
+site    
+skin    
+Skype    
+Skype    
+smartphone    
+smiley    
+SMS    
+SMS    
+Snapchat    
+social    
+social bookmarking    
+social media    
+social networking    
+sock puppet    
+sock puppetry    
+spam    
+spam    
+spammer    
+spamming    
+spammy    
+speakerphone    
+speed dial    
+spoof    
+spoofing    
+the white pages    
+sticker    
+storefront    
+subject line    
+surf    
+surfer    
+surfing    
+switchboard    
+system operator    
+takedown    
+telebanking    
+teleconference    
+teleconference    
+teleconferencing    
+telegraph    
+telegraph    
+telegraph pole    
+telephone    
+telephone    
+telephone banking    
+telephone booth    
+telephone box    
+telephone call    
+telephone kiosk    
+telephone number    
+telephonist    
+teleprinter    
+telesales    
+teleshopping    
+teletypewriter    
+telex    
+telex    
+text    
+text    
+text message    
+text-message    
+text-messaging    
+thread    
+TikTok    
+timeline    
+TL;DR    
+toll    
+trace    
+troll    
+troll    
+troll factory    
+troll farm    
+tweet    
+tweet    
+tweeter    
+twitter    
+Twitter    
+unblock    
+unboxing    
+unlisted    
+unlock    
+unmute    
+unsubscribe    
+Usenet    
+user group    
+videophone    
+videotelephony    
+viral marketing    
+visit    
+visit    
+VLE    
+vlog    
+vlog    
+vlogger    
+vlogging    
+voicemail    
+voice message    
+webcast    
+web chat    
+weblog    
+website    
+wrap    
+Yellow Pages    
+YouTuber    
+YouTube

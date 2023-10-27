@@ -1,0 +1,1679 @@
+accommodation    
+acquired characteristic    
+allele    
+ameba    
+amino acid    
+amnion    
+amoeba    
+anaerobic    
+anatomy    
+antibody    
+antigen    
+asexual    
+asexuality    
+axon    
+bacteria    
+behaviour    
+being    
+biochemist    
+biochemistry    
+biological    
+biologist    
+biology    
+biomolecule    
+biotype    
+bisexual    
+blueprint    
+botanist    
+botany    
+capsid    
+carb    
+carbohydrate    
+cell    
+centriole    
+chemosynthesis    
+chemosynthetic    
+chlorophyll    
+chloroplast    
+cholesterol    
+chromosomal    
+chromosome    
+circulate    
+clone    
+clone    
+community    
+connective tissue    
+cortisol    
+cosmopolitan    
+cycle    
+cytoplasm    
+dendrite    
+dendritic    
+deoxyribonucleic acid    
+digest    
+digestion    
+digestive    
+disruptor    
+divide    
+division    
+DNA    
+dominant    
+egg    
+embryo    
+encode    
+engineer    
+enzyme    
+eucaryote    
+eucaryotic    
+eukaryote    
+eukaryotic    
+evolution    
+evolutionary    
+evolve    
+excrement    
+excrete    
+faeces    
+feces    
+female    
+female    
+fertile    
+fertilize    
+fetus    
+filament    
+fission    
+foetus    
+fossil    
+Frankenfood    
+fungus    
+gamete    
+gas exchange    
+gene    
+gene editing    
+gene pool    
+gene therapy    
+genetic    
+geneticallyad    
+genetically modified    
+genetic code    
+genetic engineering    
+genetics    
+genome    
+genotype    
+germ    
+GMabbreviation    
+GMO    
+heterozygote    
+histamine    
+homologous    
+homozygote    
+hormone    
+hybrid    
+hydrocortisone    
+incubate    
+incubation    
+inheritable    
+inhibitor    
+instinct    
+insulin    
+interferon    
+in vitro    
+in vitroad    
+in vivo    
+in vivoad    
+killer cell    
+lactate    
+life cycle    
+lipid    
+lymph    
+lymph node    
+male    
+male    
+maltose    
+medium    
+meiosis    
+membrane    
+metabolism    
+microbe    
+microbial    
+mitochondrial    
+mitochondrion    
+mitosis    
+mutant    
+mutant    
+mutate    
+mutation    
+nerve    
+neurology    
+neuron    
+neurotransmitter    
+nucleotide    
+nucleus    
+nutrient    
+oestrogen    
+organic    
+organism    
+oviparous    
+ovoviviparous    
+ovulate    
+ovum    
+parasite    
+pathology    
+pepsin    
+pharming    
+phenotype    
+photosynthesis    
+physiology    
+pigmentation    
+procaryote    
+procaryotic    
+progesterone    
+prokaryote    
+prokaryotic    
+propagate    
+propagation    
+protein    
+protoplasm    
+receptor    
+recessive    
+regurgitate    
+replicator    
+reproduce    
+reproduction    
+reproductive    
+respiration    
+respiratory    
+RNA    
+secrete    
+semen    
+sequence    
+sex chromosome    
+species    
+specimen    
+sperm    
+starch    
+stem cell    
+stimulus    
+subspecies    
+symbiosis    
+synthesis    
+synthesize    
+testosterone    
+the survival of the fittestidiom
+tissue    
+transgenic    
+transgenic    
+urinate    
+vector    
+vesicle    
+virus    
+viviparous    
+wall    
+X chromosome    
+Y chromosome    
+zoologist    
+zoology
+accelerator board    
+access    
+add-in    
+AIabbreviation    
+alert    
+Algol    
+algorithm    
+Alt key    
+analogue    
+animation    
+antivirus    
+app    
+applet    
+application    
+AR    
+architect    
+architect    
+architecture    
+archive    
+archive    
+array    
+artificial intelligence    
+authenticate    
+authoring    
+autocorrect    
+autocorrect    
+autoplay    
+back end    
+back-end    
+backslash    
+backspace    
+backspace    
+back up 
+backup    
+BASIC    
+batch    
+beta version    
+binary    
+BIOSabbreviation    
+bit    
+Bitcoin    
+BlackBerry    
+blockchain    
+Bluetooth    
+Blu-ray    
+Boolean operator    
+boot    
+bootstrap    
+bootstrap    
+bot    
+botnet    
+bug    
+buggy    
+bundle    
+bundle    
+burn    
+bus    
+button    
+byte    
+cache    
+cache    
+CADabbreviation    
+CADCAMabbreviation    
+CAMabbreviation    
+card    
+CD burner    
+CD-ROM    
+CD writer    
+central processing unit    
+channel    
+chatbot    
+chip    
+click    
+click    
+client    
+clip art    
+clipboard    
+clock speed    
+clone    
+COBOL    
+code    
+code    
+codec    
+command    
+command language    
+compatibility    
+compatible    
+computer    
+computer-aided    
+computer-generated    
+computerize    
+computer-literate    
+computing    
+configuration    
+configure    
+connect    
+console    
+control    
+corrupt    
+corruption    
+courseware    
+CPUabbreviation    
+cracker    
+crash    
+crash    
+cursor    
+cut    
+cybercrime    
+cyberspace    
+data    
+databank    
+database    
+data centre    
+data processing    
+data set    
+data terminal    
+data warehouse    
+data warehousing    
+debug    
+debug    
+debugger    
+deck    
+default    
+delete    
+deletion    
+demo    
+demo    
+deprecate    
+deselect    
+desktop    
+desktop publishing    
+diagnostic    
+dialog box    
+digital    
+digital asset    
+directory    
+disassemble    
+disassembler    
+disinfect    
+disk    
+disk drive    
+diskette    
+display    
+docking station    
+document    
+dongle    
+double-click    
+down    
+download    
+download    
+drag    
+drag-and-drop    
+drive    
+drive bay    
+driver    
+drop-down menu    
+duplex    
+DVD    
+e-book    
+edit    
+edutainment    
+encode    
+encrypt    
+end user    
+environment    
+e-reader    
+error correction    
+error message    
+escape    
+executable    
+exit    
+export    
+extension    
+face recognition    
+facial recognition    
+file    
+filename    
+file sharing    
+filter    
+firewall    
+firmware    
+flash drive    
+flash memory    
+flatbed scanner    
+flat-panel    
+flat-screen    
+flic    
+floppy disk    
+folder    
+format    
+Fortran    
+forward slash    
+freeware    
+freeze    
+front end    
+function    
+functionality    
+function key    
+generate    
+gibibit    
+gibibyte    
+GIF    
+gigabit    
+gigabyte    
+graphics    
+graphics adapter    
+graphics card    
+graphics tablet    
+groupware    
+GUI    
+hack    
+hack    
+hackathon    
+hacker    
+handheld    
+hard copy    
+hard disk    
+hard error    
+hardware    
+help desk    
+icon    
+import    
+infect    
+information technology    
+initialization    
+initialize    
+input    
+input    
+install    
+instruction    
+interactive    
+interface    
+interoperability    
+interpreter    
+intranet    
+invalid    
+iPod    
+ISAabbreviation    
+IT    
+iteration    
+joystick    
+Kabbreviation    
+key    
+key    
+keyboard    
+keylogger    
+keystroke    
+keyword    
+kibibit    
+kibibyte    
+killer app    
+kilobit    
+kilobyte    
+laggy    
+LAN    
+landscape    
+language    
+laptop    
+list box    
+load    
+local area network    
+local bus    
+location    
+logic    
+logic circuit    
+log in 
+login    
+log off 
+log on 
+logon    
+log out 
+machine code    
+machine learning    
+macro    
+mainframe    
+malicious    
+malvertising    
+malware    
+markup    
+mebibit    
+mebibyte    
+medium    
+megabit    
+megabyte    
+megaflop    
+megahertz    
+megapixel    
+memory    
+memory bank    
+memory card    
+Memory Stick    
+menu    
+menu bar    
+metaverse    
+MFAabbreviation    
+microchip    
+microprocessor    
+middleware    
+mobile device    
+mod    
+mod    
+modder    
+modding    
+modem    
+module    
+monitor    
+motherboard    
+mouse    
+mouse mat    
+mouse potato    
+MP3 player    
+multi-factor authentication    
+multimedia    
+multiprocessor    
+multitasking    
+netbook    
+network    
+network    
+NFT    
+noise    
+non-fungible token    
+notebook    
+notification    
+on-board    
+onboard    
+open    
+open-source    
+operating system    
+operation    
+option    
+output    
+output    
+overflow    
+overload    
+overload    
+palmtop    
+parallel port    
+pascal    
+passcode    
+password    
+paste    
+patch    
+PC    
+pen drive    
+peripheral    
+personal computer    
+photoshop    
+pinch    
+piracy    
+pirate    
+pixel    
+pixelate    
+plasma screen    
+platform    
+Plug and Play    
+plug-and-play    
+plug-in    
+pointer    
+pointing device    
+pop-up    
+port    
+portrait    
+power brick    
+power user    
+predictive    
+print    
+printer    
+printout    
+process    
+processor    
+program    
+program    
+programmaticallyad    
+programmer    
+programming    
+prompt    
+proxy server    
+push alert    
+push notification    
+query language    
+quit    
+RAM    
+random-access memory    
+read-only    
+read-only memory    
+real time    
+reboot    
+refresh    
+reload    
+reserved word    
+resize    
+retrieval    
+retrieve    
+return    
+right-click    
+rip    
+ROM    
+router    
+run    
+SaaS    
+safe mode    
+save    
+scan    
+scanner    
+scareware    
+screen    
+screen saver    
+screenshot    
+script    
+scroll    
+scroll bar    
+search    
+second screen    
+security hole    
+seek time    
+select    
+serial port    
+server    
+server farm    
+SGMLabbreviation    
+shareware    
+shift    
+silicon chip    
+skin    
+slash    
+slider    
+slide show    
+smart speaker    
+soft error    
+software    
+software engineer    
+sound card    
+sound effect    
+source code    
+space bar    
+spambot    
+speech recognition    
+spellcheck    
+spellcheck    
+spellchecker    
+split screen    
+split-screen    
+spreadsheet    
+stack    
+status bar    
+storage    
+suite    
+swipe    
+system    
+systems analysis    
+systems analyst    
+system unit    
+tab    
+tablet    
+terminal    
+text-to-speech    
+thumb drive    
+time out 
+timeout    
+timestamp    
+timestamp    
+title bar    
+toggle    
+toggle    
+toolbar    
+touchpad    
+touchscreen    
+Trojan horse    
+troubleshoot    
+TTSabbreviation    
+tutorial    
+type    
+uncheck    
+undelete    
+underscore    
+unencrypted    
+uninstall    
+unit    
+unlock    
+unreadable    
+upgrade    
+upgrade    
+upload    
+upload    
+USBabbreviation    
+USB drive    
+user    
+user ID    
+username    
+utility    
+vapourware    
+VDU    
+video    
+video card    
+virtual    
+virtual machine    
+virtual reality    
+virus    
+visual display unit    
+voice assistant    
+voice recognition    
+VPN    
+wallpaper    
+WAN    
+webcam    
+Wi-Fi    
+window    
+wireless    
+word processing    
+word processor    
+workstation    
+worm    
+WYSIWYGabbreviation    
+XML
+3D printer    
+ACabbreviation    
+action    
+activate    
+activation    
+actuate    
+adapter    
+alternator    
+ammeter    
+amp    
+amperage    
+amplifier    
+analogue    
+antenna    
+appliance    
+arm    
+ball bearing    
+bandwidth    
+battery    
+bearing    
+belt    
+belt drive    
+bench test    
+bench-test    
+blade    
+blow    
+blueprint    
+bolt    
+bolt    
+bolt-on    
+break    
+break down 
+breakdown    
+button    
+cable    
+cannibalize    
+capacitor    
+capacity    
+chemical engineering    
+chronograph    
+circuit    
+circuit board    
+circuit breaker    
+civil engineering    
+clock    
+coax    
+coaxial    
+cog    
+condenser    
+conduct    
+connect    
+console    
+contrivance    
+controller    
+crane    
+crank    
+crank    
+crank up 
+current    
+cycle    
+DCabbreviation    
+deactivate    
+depress    
+device    
+dial    
+diode    
+disconnect    
+driveshaft    
+dynamo    
+earth    
+earth    
+electric    
+electrical    
+electrical engineering    
+electricity    
+electrode    
+electronic    
+electronics    
+engineer    
+engineering    
+extension lead    
+filament    
+first generation    
+functionality    
+fuse    
+gadget    
+gearing    
+generation    
+generator    
+ground    
+ground    
+high-tech    
+high technology    
+hi-tech    
+indicate    
+instrument    
+insulator    
+jack    
+jam    
+jam    
+knob    
+lathe    
+lever    
+live    
+machine    
+machine    
+machine-made    
+machinery    
+machine tool    
+magnify    
+mechanical    
+mechanical engineering    
+mechanism    
+meter    
+microchip    
+microelectronic    
+microelectronics    
+motor    
+next-generation    
+nut    
+ohm    
+ohmmeter    
+oscillator    
+oscilloscope    
+overhaul    
+overhaul    
+parallel circuit    
+photocell    
+photoelectric    
+photoelectric cell    
+press    
+probe    
+prototype    
+pump    
+pump    
+relay    
+rewire    
+rivet    
+robot    
+robotics    
+roller    
+rotor    
+run    
+running repairs    
+safety valve    
+screw    
+screw    
+semiconductor    
+sensor    
+service    
+service    
+servicing    
+servo    
+shaft    
+shock    
+short circuit    
+shut down 
+shutdown    
+shut off 
+silicon chip    
+sleep mode    
+solar cell    
+solenoid    
+spare part    
+sprocket    
+switch    
+switch off 
+switch on 
+technical    
+technician    
+thermostat    
+timer    
+time switch    
+transducer    
+transformer    
+transistor    
+transmitter    
+turbine    
+turn off 
+turn on 
+volt    
+voltage    
+voltmeter    
+washer    
+watt    
+wattage    
+wire    
+working
+acre    
+acute angle    
+add    
+addition    
+add up 
+add up to 
+algebra    
+amount to 
+amp    
+angle    
+arc    
+area    
+arithmetic    
+array    
+asymmetric    
+asymmetricallyad    
+asymmetry    
+average    
+average    
+axis    
+bar chart    
+bar graph    
+billionnumber    
+binary    
+bracket    
+breadth    
+Cabbreviation    
+calculate    
+calculation    
+calculator    
+calculus    
+calorie    
+carat    
+cardinal    
+catastrophe theory    
+Celsius    
+centigrade    
+centilitre    
+centimetre    
+chaos theory    
+circumference    
+clabbreviation
+coaxial    
+common denominator    
+common fraction    
+congruence    
+congruent    
+coordinate    
+cosabbreviation
+cosine    
+count    
+count    
+cube    
+cube    
+cube root    
+cubic    
+cupful    
+cwtabbreviation
+decimal    
+deduce    
+deduction    
+degree    
+denominator    
+depth    
+diameter    
+differential calculus    
+digit    
+dimension    
+divide    
+divisible    
+division    
+divisor    
+domain    
+doublepro    
+double    
+equallinking     
+equals sign    
+equation    
+express    
+exterior angle    
+factor    
+factorial    
+Fahrenheit    
+figure    
+fl ozabbreviation
+fluid ounce    
+foot    
+footage    
+formula    
+fpsabbreviation
+fraction    
+ftabbreviation
+function    
+gabbreviation
+gal.abbreviation
+gallon    
+game theory    
+geodesic    
+geometric    
+geometry    
+gradient    
+gram    
+gramme    
+graph    
+hectare    
+height    
+hertz    
+horizontal    
+horsepower    
+hundrednumber    
+hundredthordinal number    
+hundredweight    
+hypotenuse    
+Hzabbreviation
+in.abbreviation
+inch    
+index    
+induction    
+infinite    
+infinity    
+information theory    
+integral calculus    
+interior angle    
+intopreposition    
+irrational number    
+iterate    
+iteration    
+karat    
+kgabbreviation
+kHzabbreviation
+kilo    
+kilogram    
+kilohertz    
+kilometre    
+kilowatt    
+kmabbreviation
+kmphabbreviation    
+knot    
+kphabbreviation    
+kWabbreviation
+labbreviation
+Labbreviation    
+lbabbreviation
+length    
+line graph    
+liter    
+litre    
+logarithm    
+long division    
+mabbreviation    
+Mabbreviation    
+mathematical    
+mathematicallyad    
+mathematician    
+mathematics    
+maths    
+matrix    
+maximum    
+maximum    
+mean    
+mean    
+measure    
+measure    
+measurement    
+measuring tape    
+megahertz    
+megawatt    
+metre    
+metric    
+metric    
+metric ton    
+mgabbreviation
+MHzabbreviation
+mile    
+milligram    
+millilitre    
+millimetre    
+millionnumber    
+minimum    
+minimum    
+minuspreposition    
+minus    
+minute    
+mlabbreviation    
+mmabbreviation
+mphabbreviation    
+multiple    
+multiply    
+MWabbreviation
+nanometre    
+negative    
+nil    
+nought    
+number    
+numeracy    
+numerator    
+numerical    
+obtuse angle    
+operator    
+ordinal    
+ounce    
+ozabbreviation
+pace    
+parabola    
+parallel    
+percentage    
+perimeter    
+pie chart    
+pint    
+place    
+plane    
+pluspreposition    
+plus    
+point    
+polynomial    
+positive    
+pound    
+power    
+prime number    
+probability    
+problem    
+product    
+proof    
+ptabbreviation
+qtabbreviation
+quadruple    
+quart    
+radius    
+ratio    
+rational number    
+reflex angle    
+register    
+right angle    
+right-angled    
+root    
+round bracket    
+rpmabbreviation    
+ruler    
+Sabbreviation    
+scalar    
+scale    
+score    
+segment    
+set    
+SIabbreviation    
+sign    
+sine    
+size    
+solid    
+solution    
+solve    
+spoonful    
+square    
+square    
+square    
+squared    
+square number    
+square root    
+stabbreviation
+statistic    
+stats    
+stone    
+straight angle    
+subtract    
+subtraction    
+sum    
+symbol    
+symmetrical    
+symmetricallyad    
+symmetry    
+tablespoon    
+tangent    
+tape measure    
+teaspoon    
+theorem    
+thousandnumber    
+thousandthordinal number    
+timespreposition    
+ton    
+tonne    
+total    
+total    
+track    
+treble    
+trigonometry    
+unit    
+Vabbreviation    
+value    
+variable    
+vector    
+vertical    
+volt    
+volume    
+vulgar fraction    
+Wabbreviation    
+watt    
+weighlinking     
+weight    
+width    
+yard    
+ydabbreviation
+absorb    
+accelerate    
+acceleration    
+acid    
+acid    
+acidity    
+activate    
+activation    
+aerodynamics    
+alcohol    
+alkali    
+alloy    
+alpha particle    
+alpha radiation    
+aluminium    
+ammonia    
+amphoteric    
+amplitude    
+anion    
+antimatter    
+arsenic    
+atom    
+atomic    
+atomic energy    
+atomic number    
+bend    
+block    
+boiling point    
+bond    
+bond    
+breeze block    
+brick    
+bronze    
+calcium    
+carbon    
+carbon dioxide    
+carbon monoxide    
+catalyse    
+catalysis    
+catalyst    
+catalytic    
+cation    
+caustic    
+Celsius    
+cement    
+centigrade    
+centre of mass    
+centripetal force    
+chalk    
+charcoal    
+charge    
+charge    
+charged    
+charger    
+chemical    
+chemical    
+chemist    
+chemistry    
+chlorine    
+chrome    
+circulate    
+cobalt    
+composition    
+compound    
+compress    
+concrete    
+concrete    
+condense    
+conductive    
+conductivity    
+conductor    
+contract    
+copper    
+corrode    
+corrosion    
+covalent    
+crack    
+crystal    
+dark matter    
+deactivate    
+decay    
+density    
+depleted uranium    
+detergent    
+dissolve    
+distil    
+ductile    
+dynamic    
+dynamite    
+effort    
+electric    
+electrical    
+electricity    
+electromagnetic    
+electromagnetism    
+electron    
+element    
+elementary particle    
+emission    
+emit    
+energy    
+entropy    
+evaporate    
+evaporation    
+expand    
+expansivity    
+fabric    
+Fahrenheit    
+fibre    
+fibreboard    
+fibreglass    
+field    
+filtrate    
+fissile    
+fission    
+flameproof    
+flexible    
+fluoride    
+force    
+freezing point    
+frequency    
+friction    
+fundamental force    
+fundamental particle    
+fusion    
+gamma radiation    
+gas    
+gelignite    
+glucose    
+gold    
+graphite    
+gravitation    
+gravitational    
+gravitational wave    
+gravity    
+gunpowder    
+heat    
+heavy    
+helium    
+hydroelectric    
+hydrogen    
+incident    
+induction    
+inertia    
+infrared    
+inorganic    
+insoluble    
+insulated    
+insulating    
+interference    
+iodine    
+ion    
+ionic    
+iron    
+isotope    
+kinetic    
+laser    
+lead    
+light    
+light    
+lightweight    
+liquid    
+lithium    
+magnesium    
+magnet    
+magnetic    
+magnetism    
+magnetize    
+mass    
+material    
+matter    
+mechanic    
+mechanical    
+melamine    
+melt    
+mercury    
+metal    
+metallic    
+microwave    
+mineral    
+mole    
+molecular    
+molecule    
+momentum    
+motion    
+nanotechnological    
+nanotechnology    
+neon    
+neutron    
+nickel    
+nitrogen    
+nuclear    
+nuclear energy    
+nuclear fission    
+nuclear fusion    
+nuclear physics    
+nuclear power    
+nuclear reactor    
+nucleus    
+nylon    
+ore    
+organic    
+oscillate    
+oxygen    
+ozone    
+particle    
+paving stone    
+Perspex    
+petrol    
+petroleum    
+pH    
+photon    
+physical    
+physicist    
+physics    
+plasma    
+plastic    
+plastic    
+platinum    
+plutonium    
+pole    
+polyester    
+polythene    
+polyurethane    
+potassium    
+potential energy    
+precipitate    
+pressure    
+product    
+proof    
+property    
+proton    
+pull    
+PVC    
+quark    
+radiate    
+radiation    
+radioactive    
+radioactivity    
+radium    
+raw material    
+ray    
+rayon    
+react    
+reaction    
+reactor    
+reflect    
+reflectivity    
+refract    
+refraction    
+refractive index    
+reinforce    
+resilient    
+resin    
+resistance    
+rigid    
+RNA    
+salt    
+sand    
+shape    
+shatter    
+sheet    
+silicon    
+silver    
+sodium    
+solar    
+solid    
+solidify    
+soluble    
+solute    
+solution    
+solvent    
+spectrum    
+static    
+static    
+the periodic table    
+steel    
+stick    
+stone    
+strain    
+stress    
+stretch    
+strong force    
+substance    
+sulphite    
+sulphur    
+sulphurous    
+sun    
+suspension    
+synthesis    
+synthesize    
+synthetic    
+tensile    
+terminal velocity    
+thermal    
+thermoplastic    
+thermostatic    
+thermostaticallyad    
+tin    
+titanium    
+twist    
+ultraviolet    
+uranium    
+vacuum    
+vapor    
+vapour    
+vector    
+velocity    
+volatile    
+water-repellent    
+wave    
+wavelength    
+weak force    
+wood    
+X-ray    
+zinc
+advancement    
+analyse    
+analysis    
+anatomy    
+apparatus    
+archaeology    
+beaker    
+bias    
+bias    
+biochemistry    
+biology    
+botanist    
+botany    
+Bunsen burner    
+carbon dating    
+case study    
+chemistry    
+chemistry set    
+classify    
+climatology    
+clinical trial    
+colligate    
+conclude    
+conclusion    
+conduct    
+confirm    
+constant    
+control    
+controlled experiment    
+correlate    
+correlation    
+corroborate    
+corroboration    
+cybernetics    
+data    
+demolish    
+detect    
+detectable    
+determine    
+develop    
+development    
+discover    
+discovery    
+disprove    
+dissect    
+earth science    
+earth scientist    
+empirical    
+empiricallyad    
+engineering    
+equipment    
+evaluate    
+evaluation    
+evidence    
+evidence-based    
+experiment    
+experimental    
+experimentation    
+fact    
+falsification    
+falsify    
+filter    
+finding    
+flask    
+food science    
+food technology    
+formula    
+funnel    
+geochemical    
+geochemistry    
+geologist    
+geology    
+geoscience    
+guinea pig    
+hydrology    
+hypothesis    
+instrument    
+journal    
+kinesiology    
+lab    
+laboratory    
+law    
+medicine    
+meteorological    
+meteorology    
+method    
+microscope    
+model    
+mortar    
+negative    
+neurobiology    
+null hypothesis    
+oceanographer    
+oceanography    
+pathology    
+pestle    
+physics    
+physiology    
+positive    
+positivity    
+principle    
+procedure    
+proof    
+protocol    
+prove    
+pseudoscience    
+psychological    
+psychologist    
+quantum physics    
+R    
+radiocarbon dating    
+randomize    
+research    
+research    
+result    
+R number    
+sample    
+science    
+scientific    
+scientist    
+self-report    
+self-report    
+slide    
+soil science    
+statistic    
+stats    
+study    
+study    
+subject    
+survey    
+symbol    
+syringe    
+technology    
+telescope    
+test    
+test    
+test tube    
+theoretical    
+theory    
+thesis    
+thought experiment    
+trial    
+verify    
+vivisection    
+weather balloon    
+zoology

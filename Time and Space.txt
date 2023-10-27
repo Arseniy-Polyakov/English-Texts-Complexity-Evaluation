@@ -1,0 +1,698 @@
+abbey    
+abdicate    
+abolition    
+aboriginal    
+accede    
+accession    
+action    
+AD    
+age    
+agrarian revolution    
+ahistorical    
+amphitheatre    
+anachronism    
+anachronistic    
+ancestor    
+ancestry    
+ancient    
+anciently    
+Anglo-Saxon    
+Anglo-Saxon    
+annex    
+antiquity    
+archaeological    
+archaeologist    
+archaeology    
+archaic    
+archeologist    
+archer    
+archive    
+archive    
+aristocracy    
+aristocrat    
+armour    
+arrow    
+art history    
+barbarian    
+baron    
+baroque    
+bath    
+battle    
+battlefield    
+battlements    
+BC    
+BCE    
+behead    
+belle époque    
+bibliographer    
+bibliographical    
+bibliography    
+bow    
+bygone    
+c    
+Cambrian    
+cannon    
+carbon dating    
+carboniferous    
+carriage    
+castle    
+cavalry    
+CE    
+cede    
+Celtic    
+century    
+chaperone    
+chapter    
+chariot    
+chronicle    
+chronological    
+chronology    
+circapreposition    
+civilization    
+civil war    
+classical    
+coach    
+cobbles    
+colony    
+commonwealth    
+conquer    
+conqueror    
+conquest    
+contemporary    
+continental drift    
+coronation    
+costume    
+Cretaceous    
+crown    
+crown    
+crusade    
+czar    
+datable    
+date    
+day    
+descendant    
+descent    
+dig    
+drawbridge    
+dungeon    
+Egyptologist    
+Egyptology    
+emperor    
+empire    
+empress    
+enlightenment    
+epoch    
+epoch-making    
+era    
+etymological    
+etymology    
+excavate    
+exhibit    
+explorer    
+feudal    
+feudalism    
+former    
+formerly   
+fort    
+fortification    
+fortress    
+found    
+galley    
+gallows    
+genealogical    
+genealogist    
+genealogy    
+generation    
+Georgian    
+gladiator    
+golden age    
+griot    
+guy    
+Hellenistic    
+heraldic    
+heraldry    
+heritage    
+hieroglyphics    
+historian    
+historic    
+historical    
+historical linguistics    
+historically    
+historicism    
+historiographical    
+historiography    
+history    
+ice age    
+imperial    
+industrialize    
+invasion    
+invention    
+Jurassic    
+king    
+kingdom    
+knight    
+majesty    
+make history
+mediaeval    
+medieval    
+moat    
+modern    
+monument    
+mummy    
+musicologist    
+musicology    
+myth    
+mythology    
+Neanderthal    
+Neanderthal    
+Neolithic    
+noble    
+onomastics    
+origin    
+page    
+pageant    
+palace    
+palaeontology    
+paleontology    
+papyrus    
+past    
+past    
+peasant    
+period    
+period    
+period piece    
+pilgrim    
+post-war    
+prehistoric    
+prehistory    
+primaeval    
+primeval    
+primitive    
+pyramid    
+queen    
+radiocarbon dating    
+reformation    
+Regency    
+reign    
+reign    
+reign of terror    
+relic    
+renaissance    
+restoration    
+revolution    
+Roman    
+ruin    
+scaffold    
+shield    
+Sinologist    
+Sinology    
+spear    
+the Bronze Age    
+the Cambrian    
+the Christian era    
+the Cretaceous    
+the dark ages    
+the Industrial Revolution    
+the Iron Age    
+the Jurassic    
+the Middle Ages    
+the Stone Age    
+stone-age    
+successor    
+sword    
+the history books
+time    
+tsar    
+tsarina    
+tzar    
+Victorian    
+Victorian    
+wartime    
+wartime    
+zeitgeist
+aerospace    
+alien    
+alien    
+asteroid    
+astrobiologist    
+astrobiology    
+astronaut    
+astronomer    
+astronomy    
+astrophysics    
+atmosphere    
+atmospheric    
+aurora australis    
+aurora borealis    
+axis    
+Big Bang    
+biosphere    
+black hole    
+blast-off    
+blast off 
+booster    
+come out 
+comet    
+come up 
+constellation    
+corona    
+cosmic    
+cosmic dust    
+cosmic rays    
+cosmonaut    
+cosmos    
+countdown    
+crescent    
+dark matter    
+dock    
+earth    
+eclipse    
+exoplanet    
+extraterrestrial    
+extraterrestrial    
+falling star    
+flying saucer    
+full moon    
+galaxy    
+go around 
+go down 
+go round 
+gravity    
+half-moon    
+hyperspace    
+intergalactic    
+interplanetary    
+interstellar    
+Jupiter    
+land    
+landing    
+launch    
+launch    
+lift-off    
+lift off 
+light year    
+lunar    
+magnetic storm    
+Mars    
+Martian    
+Martian    
+Mercury    
+meteor    
+meteorite    
+meteoroid    
+Milky Way    
+mission    
+moon    
+moonlight    
+NASA    
+nebula    
+Neptune    
+new moon    
+orbit    
+orbit    
+orbital    
+outer space    
+ozone hole    
+ozone layer    
+penumbra    
+planet    
+plate    
+Pluto    
+pod    
+probe    
+radiation belt    
+ray    
+red dwarf    
+rise    
+rocket    
+rotation    
+satellite    
+Saturn    
+shine    
+shooting star    
+solar    
+solar system    
+solar year    
+space    
+spacecraft    
+spaceman    
+space probe    
+spaceship    
+space shuttle    
+space station    
+spacesuit    
+space-time    
+spacewalk    
+spacewoman    
+sputnik    
+star    
+the Northern Lights    
+the Southern Cross    
+the Southern Lights    
+the thermosphere    
+the troposphere    
+the ionosphere    
+the mesosphere    
+the stratosphere    
+stratospheric    
+sun    
+sunbeam    
+sunlight    
+sunray    
+sunrise    
+sunset    
+sunup    
+take-off    
+take off 
+telescope    
+twilight    
+UFO    
+universe    
+Uranus    
+Venus    
+voyage    
+wane    
+wax    
+weightless    
+weightlessness    
+white dwarf    
+wormhole    
+zenith    
+zodiac
+24-hour clock    
+academic year    
+AD    
+aeon    
+afterpreposition    
+afternoon    
+afternoonsad    
+afterwardsad    
+age    
+agoad    
+AH    
+ahead ofpreposition    
+ahead behind time
+ahead of time
+all-day    
+all the time
+alternate    
+annual    
+annually   
+April    
+around-the-clock    
+as from
+as of
+AST    
+Atlantic Daylight Time    
+Atlantic Standard Time    
+at the same time
+at times
+August    
+autumn    
+a week yesterday
+bank holiday    
+BC    
+BCE    
+beforepreposition    
+before    
+beforead    
+beforehandad    
+behind the times
+beyondpreposition    
+biannual    
+bicentenary    
+bicentenary    
+bicentennial    
+bicentennial    
+biennial    
+biennially    
+bimonthly    
+British Summer Time    
+calendar    
+calendar month    
+calendar year    
+CE    
+centenary    
+Central Daylight Time    
+Central European Summer Time    
+Central European Time    
+Central Standard Time    
+century    
+chapter    
+chronological    
+continual    
+continually    
+continuous    
+continuously   
+Coordinated Universal Time    
+daily    
+daily    
+date    
+dawn    
+day    
+daybreak    
+day in, day out
+daylight    
+daylight saving time    
+daytime    
+day-to-day    
+decade    
+December    
+diurnal    
+duringpreposition    
+dusk    
+early    
+Eastern Daylight Time    
+Eastern Standard Time    
+elapse    
+eon    
+epoch    
+equinox    
+era    
+eternity    
+eve    
+evening    
+eventual    
+eventually   
+every now and again
+every now and then
+every other
+fall    
+farad    
+February    
+financial year    
+fiscal year    
+for the meantime
+for the meanwhile
+for the moment
+for the present
+for the time being
+fortnight    
+frequent    
+Friday    
+from day to day
+from one day to the next
+from that day
+from that time forth
+from that time forth
+from that day forth
+from time to time
+GMT    
+Gregorian calendar    
+half-century    
+half hour    
+half-hourly    
+half-hourly    
+half past one
+half-yearly    
+half-yearly    
+hour    
+hourly    
+hourly    
+immediate    
+immediately    
+inpreposition    
+indefinite    
+indefinitely    
+in due course
+in future
+in good time
+over the course of
+in the course of
+instant    
+instant    
+in the course of time
+in the end
+in the fullness of time
+in the meantime
+in the meanwhile
+in the morning
+in time
+in time 
+January    
+Julian calendar    
+July    
+June    
+justad    
+keep hours
+lastdeterminer    
+last    
+late    
+latead    
+lately 
+lateness    
+later    
+later on
+latter    
+latterly    
+leap year    
+local time    
+long-term    
+lunar cycle    
+lunar day    
+lunar month    
+lunar year    
+lunchtime    
+March    
+May    
+MDT    
+medium-term    
+microsecond    
+midday    
+midnight    
+midsummer    
+midwayad    
+midwinter    
+millennial    
+millennium    
+millisecond    
+minute    
+minute hand    
+mo    
+moment    
+Monday    
+month    
+monthly    
+monthly    
+morning    
+morning, noon and night
+morrow    
+Mountain Daylight Time    
+Mountain Standard Time    
+nanosecond    
+nearpreposition    
+neverad    
+next up
+night    
+nightly    
+night-time    
+noon    
+noontide    
+November    
+occasional    
+October    
+of all time
+oftenad    
+onpreposition    
+on time
+o’clockad    
+Pacific Daylight Time    
+Pacific Standard Time    
+pastpreposition    
+perennial    
+period    
+perpetual    
+predawn    
+present    
+quarter    
+rare    
+recent    
+recently    
+regular    
+regularly    
+round-the-clock    
+Saturday    
+season    
+seasonal    
+seasonality    
+sec    
+second    
+second hand    
+semester    
+September    
+session    
+short-range    
+short-term    
+simultaneous    
+simultaneously    
+sincepreposition    
+since    
+solar year    
+solstice    
+sometimesad    
+spasmodic    
+spell    
+spring    
+springtime    
+the noughties    
+stretch    
+subsequently    
+sudden    
+suddenly  
+summer    
+summer time    
+summertime    
+Sunday    
+sunrise    
+sunset    
+tax year    
+term    
+termly    
+term time    
+term-time    
+the other day
+the small hours
+throughad    
+throughoutpreposition    
+Thursday    
+time    
+time after time
+time lag    
+time span    
+time zone    
+to date
+todayad    
+today    
+today week
+tomorrowad    
+tomorrow    
+tonight    
+triennial    
+trimester    
+Tuesday    
+twelvemonth    
+twenty-four sevenad    
+Universal Coordinated Time    
+usually  
+UTC    
+Wednesday    
+week    
+weekday    
+weekdaysad    
+weekend    
+weekly    
+while    
+winter    
+wintertime    
+year    
+year after year
+year by year
+year in, year out
+year-long    
+yearly   
+yearly    
+year-round    
+yesterdayad    
+yesterday    
+yetad    
+yonks

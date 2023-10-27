@@ -1,0 +1,1188 @@
+abandoned    
+abattoir    
+abbey    
+adjacent    
+ado   
+aisle    
+amphitheatre    
+ancient    
+annexe    
+apartment block    
+apse    
+aquarium    
+arcade    
+arch    
+arched    
+architectural    
+architecture    
+archway    
+arsenal    
+art deco    
+art gallery    
+art nouveau    
+asbestos    
+ashram    
+aspect    
+assemble    
+assembly room    
+atrium    
+auction room    
+auditorium    
+avenue    
+balcony    
+balustrade    
+barn    
+baroque    
+baroque    
+barracks    
+basement    
+bas-relief    
+batten    
+Bauhaus    
+beam    
+belvedere    
+bhavan    
+bijou    
+birthplace    
+block    
+blueprint    
+board    
+booth    
+borough    
+bowling alley    
+breeze block    
+brick    
+bricklaying    
+bridge    
+brownfield    
+brutalism    
+build    
+building    
+bulldozer    
+bunker    
+bunkhouse    
+buttress    
+Byzantine    
+cabana    
+cabin    
+campus    
+cantilever    
+capital    
+carve    
+casement    
+castle    
+cathedral    
+cellar    
+cement    
+cenotaph    
+center    
+centre    
+chamber    
+chapel    
+chapter house    
+chawl    
+chimney    
+chimney pot    
+choir    
+church    
+cinema    
+civil engineering    
+classical    
+clinic    
+cloister    
+close    
+club    
+clubhouse    
+collapse    
+colonial    
+colonnade    
+column    
+complex    
+concrete    
+concrete    
+condo    
+condominium    
+conservation    
+construct    
+construction    
+consulate    
+contemporary    
+convent    
+conversion    
+convert    
+cooling tower    
+corbel    
+corridor    
+cosy    
+cottage    
+court    
+courthouse    
+courtyard    
+cramped    
+crane    
+crematorium    
+crumble    
+crypt    
+cul-de-sac    
+dam    
+damp    
+decay    
+demolish    
+design    
+design    
+des res    
+development    
+digger    
+dilapidated    
+dilapidation    
+disrepair    
+district    
+dome    
+doorstep    
+doorway    
+Doric    
+dormitory    
+do up 
+downspout    
+downstairsad    
+downstairs    
+downstairs    
+downtownad    
+downtown    
+downtown    
+drain    
+drainpipe    
+drawbridge    
+drive    
+driveway    
+drywall    
+dungeon    
+eaves    
+Edwardian    
+elevation    
+elevator    
+embassy    
+entrance    
+erect    
+erection    
+escalator    
+excavate    
+exclusive    
+exit    
+extension    
+exterior    
+exterior    
+external    
+eyesore    
+fabric    
+facade    
+face    
+facia    
+facing    
+factory    
+farm    
+fascia    
+fire escape    
+fireplace    
+fire station    
+fire trap    
+first floor    
+fitted    
+flat    
+floor    
+flooring    
+floor plan    
+flying buttress    
+folly    
+formal    
+fort    
+fortress    
+foundation    
+frame    
+fretwork    
+friary    
+front    
+gable    
+gallery    
+garage    
+gargoyle    
+gasometer    
+gated community    
+gazebo    
+Georgian    
+girder    
+glass    
+glasshouse    
+glaze    
+Gothic    
+Gothic    
+grand    
+Grecian    
+greenfield    
+greenhouse    
+green wall    
+ground floor    
+ground plan    
+guest house    
+gurdwara    
+gut    
+gutter    
+guttering    
+half-timbered    
+hall    
+hall of residence    
+handy    
+hangar    
+HDB    
+hermitage    
+high-rise    
+high-rise    
+hod    
+home    
+hospice    
+hospital    
+hostel    
+hotel    
+hothouse    
+house    
+hovel    
+hut    
+igloo    
+impressive    
+indoor    
+indoorsad    
+inlay    
+inlay    
+inn    
+inscription    
+insulated    
+insulation    
+interior    
+ionic    
+isolated    
+Italianate    
+joist    
+Kaaba    
+keystone    
+kiosk    
+knock down 
+knock together 
+lab    
+ladder    
+landing    
+landmark    
+layout    
+leaded    
+leafy    
+lean-to    
+leisure centre    
+level    
+level    
+library    
+lift    
+lighthouse    
+lintel    
+listed building    
+lobby    
+location    
+lock    
+lodge    
+loft    
+lofty    
+loggia    
+luxury    
+madrasa    
+maintain    
+mall    
+mandir    
+manor    
+mansion    
+mantelpiece    
+marble    
+masjid    
+masonry    
+mediaeval    
+medieval    
+meeting house    
+metropolitan    
+mill    
+minaret    
+moat    
+moated    
+mock    
+model home    
+modern    
+modernism    
+monastery    
+monument    
+morgue    
+mortar    
+mortuary    
+mosque    
+motel    
+motor lodge    
+motte-and-bailey castle    
+movie theater    
+multi-storey car park    
+municipal    
+museum    
+narthex    
+nave    
+neglect    
+neglect    
+neoclassical    
+neoclassicism    
+newel post    
+next doorad    
+niche    
+Norman    
+nunnery    
+obelisk    
+observatory    
+office block    
+open-plan    
+opera house    
+outbuilding    
+outdoor    
+outskirts    
+overlook    
+pagoda    
+palace    
+palatial    
+parking garage    
+parsonage    
+passage    
+pave    
+pavilion    
+paving    
+pebble-dash    
+pediment    
+penthouse    
+perpendicular    
+picturesque    
+pier    
+pigsty    
+pillar    
+pinnacle    
+pipework    
+plan    
+planetarium    
+planning permission    
+plaque    
+plaster    
+plaster    
+plasterboard    
+plasterwork    
+plate glass    
+plinth    
+plot    
+plumbing    
+poky    
+police station    
+porch    
+Portakabin    
+portico    
+postmodernism    
+postmodernist    
+post office    
+power station    
+prefab    
+prefabricated    
+premises    
+preservation order    
+preserve    
+priory    
+prison    
+pristine    
+private    
+property    
+provincial    
+pub    
+public convenience    
+public house    
+pull down 
+pulpit    
+pyramid    
+rambling    
+raze    
+rebuild    
+reconstruct    
+reconstruction    
+rectory    
+redevelop    
+redevelopment    
+refinery    
+refurbish    
+refurbishment    
+Regency    
+reinforce    
+relief    
+remains    
+render    
+renovate    
+renovation    
+residency    
+residential    
+restore    
+rewire    
+rococo    
+Romanesque    
+roof    
+roofing    
+rot    
+rot    
+rotunda    
+rough    
+rubble    
+ruin    
+run-down    
+rural    
+sanctuary    
+sand    
+scaffolding    
+school    
+schoolhouse    
+screen    
+secluded    
+self-build    
+semi    
+service station    
+sewer    
+shack    
+shed    
+shell    
+shelter    
+shopping arcade    
+shopping centre    
+shopping mall    
+shore up 
+shrine    
+shutter    
+site    
+skeleton    
+skyscraper    
+slab    
+slate    
+slaughterhouse    
+slum    
+spacious    
+span    
+span    
+spire    
+sports centre    
+square    
+stable    
+stadium    
+stained glass    
+stair    
+stately home    
+station    
+station house    
+steeple    
+stone    
+storey    
+street    
+strip    
+structure    
+stucco    
+stuccoed    
+subsidence    
+substructure    
+suburb    
+suburban    
+summer house    
+superstructure    
+support    
+surround    
+suspension bridge    
+swimming pool    
+synagogue    
+temple    
+tenement    
+terminal    
+terrace    
+thatch    
+thatch    
+thatched    
+theatre    
+threshold    
+tile    
+tile    
+timber    
+tomb    
+tower    
+tower block    
+town hall    
+traditional    
+transept    
+truss    
+Tudor    
+turret    
+upstairsad    
+upstairs    
+upstairs    
+uptownad    
+uptown    
+urban    
+vacant    
+varnish    
+vault    
+vaulted    
+vaulting    
+ventilate    
+veranda    
+vernacular    
+viaduct    
+vicarage    
+Victorian    
+villa    
+walkway    
+wall    
+warehouse    
+weather    
+weathering    
+weathervane    
+windmill    
+window    
+window ledge    
+windowsill    
+woodworm    
+wreck    
+wrecking ball    
+ziggurat
+allotment    
+arbour    
+axe    
+backyard    
+barbecue    
+barbie    
+bench    
+bird table    
+border    
+boundary    
+cane    
+climbing frame    
+clothes line    
+compost    
+compost    
+compostable    
+compost bin    
+compost heap    
+container    
+courtyard    
+cut back 
+cut down 
+deck    
+deckchair    
+decking    
+dig    
+fence    
+fertilizer    
+flagstone    
+flower bed    
+flowerpot    
+fork    
+fountain    
+garbage can    
+garden    
+garden    
+gardener    
+gate    
+gnome    
+graft    
+grass    
+gravel    
+greenhouse    
+grow    
+growbag    
+hanging basket    
+hedge    
+hedge trimmer    
+hoe    
+hoe    
+horticulture    
+hose    
+hot tub    
+lawn    
+lawnmower    
+lounger    
+manure    
+manure    
+moat    
+moated    
+mow    
+mower    
+mulch    
+mulch    
+ornamental    
+overgrown    
+patch    
+path    
+patio    
+paving stone    
+peat    
+peaty    
+picket    
+plant    
+planter    
+plant pot    
+pond    
+post    
+pot    
+pot    
+potting shed    
+prune    
+rain barrel    
+raised bed    
+rake    
+rake    
+roof garden    
+scythe    
+secateurs    
+seed    
+seedbed    
+shears    
+shed    
+shovel    
+shovel    
+shrub    
+shrubbery    
+slug    
+snail    
+soil    
+sow    
+spade    
+sprinkler    
+Strimmer    
+summer house    
+sundial    
+sunlounger    
+sunshade    
+swimming pool    
+swing    
+terrace    
+transplant    
+tree house    
+trellis    
+trim    
+trowel    
+tub    
+washing line    
+water    
+water butt    
+water feature    
+watering can    
+weed    
+weed    
+wheelbarrow    
+windbreak    
+window box    
+yard
+accommodation    
+aerial    
+affordable housing    
+A-frame    
+air-conditioned    
+air conditioning    
+alarm    
+alcove    
+almshouse    
+annexe    
+antenna    
+apartment    
+appraiser    
+armchair    
+arrears    
+attic    
+bachelor pad    
+back door    
+back-to-back    
+balcony    
+ballroom    
+baseboard    
+basement    
+bath    
+bathroom    
+bay window    
+bed    
+bedroom    
+bedsit    
+in arrears
+bin    
+birdcage    
+blackout    
+blind    
+boarder    
+boarding house    
+boiler    
+boiler room    
+bond    
+bookcase    
+bookshelf    
+borrow    
+box room    
+breezeway    
+bridging loan    
+broom    
+broom closet    
+broom cupboard    
+brownstone    
+brush    
+bucket    
+building society    
+built-in    
+bungalow    
+bunk    
+bureau    
+burglar alarm    
+buy    
+buyer    
+buy-to-let    
+cabinet    
+camp bed    
+canopy    
+carpet    
+cat flap    
+ceiling    
+cellar    
+central heating    
+chain    
+chair    
+chalet    
+chest    
+chest of drawers    
+chimney    
+chimney stack    
+chintz    
+chore    
+cistern    
+clean    
+cleaning    
+closet    
+clutter    
+coffee table    
+comforter    
+comfort room    
+communal    
+condo    
+condominium    
+conservatory    
+contract    
+cooker    
+corner    
+cornice    
+cottage    
+couch    
+council flat    
+country house    
+cupboard    
+curtain    
+cushion    
+decor    
+decorate    
+decoration    
+deed    
+deep freeze    
+deposit    
+deposit    
+desk    
+detached    
+detailing    
+dining room    
+dishwasher    
+dispossess    
+dispossession    
+DIY    
+door    
+doorbell    
+doorknob    
+door knocker    
+doorstep    
+doorway    
+dormitory    
+downspout    
+downstairsad    
+downstairs    
+downstairs    
+drain    
+drainpipe    
+drape    
+drawer    
+drawing room    
+dresser    
+dressing room    
+dressing table    
+dry up 
+duplex    
+duplex    
+dust    
+dustbin    
+duster    
+dustpan    
+duvet    
+dwelling    
+easy chair    
+end table    
+en suite    
+entrance    
+entrance hall    
+entry    
+Entryphone    
+equipment    
+estate    
+estate agent    
+evict    
+eviction    
+exchange    
+extension    
+exterior    
+facade    
+family room    
+fan    
+farm    
+fire alarm    
+fire escape    
+fireplace    
+first floor    
+first-floor    
+fitting    
+fixture    
+flat    
+flat-pack    
+floor    
+foreclose    
+forever home    
+for rent
+foyer    
+freehold    
+freeholdad    
+freehold    
+free-standing    
+freezer    
+French door    
+French window    
+fridge    
+frieze    
+front    
+frontage    
+front door    
+front room    
+furnish    
+furnished    
+furnishings    
+furniture    
+furniture van    
+fuse box    
+futon    
+gable    
+gadget    
+garage    
+gasometer    
+gazump    
+gazumping    
+gazunder    
+gazundering    
+granny flat    
+ground floor    
+guttering    
+hall    
+hallway    
+hammock    
+hang    
+hanging    
+hatch    
+HDB    
+heater    
+heating    
+hi-fi    
+high chair    
+home    
+homebuyer    
+home improvement    
+home loan    
+home office    
+homeowner    
+hoover    
+Hoover    
+house    
+houseboat    
+house-hunting    
+housemate    
+house-sit    
+house-warming    
+housework    
+housing    
+housing benefit    
+housing estate    
+housing ladder    
+housing scheme    
+hut    
+igloo    
+immersion heater    
+in arrears
+indoor    
+indoorsad    
+interior    
+interior    
+iron    
+iron    
+ironing    
+ironing board    
+island    
+Jacuzzi    
+kitchen    
+knick-knack    
+knocker    
+ladder    
+lamp    
+lampshade    
+landing    
+landlady    
+landlord    
+larder    
+lavatory    
+lease    
+lease    
+leasehold    
+leaseholder    
+lend    
+lessee    
+lessor    
+let    
+let    
+letter box    
+letting    
+level    
+library    
+light    
+lino    
+linoleum    
+living room    
+loan    
+loan    
+lock    
+lodger    
+lodging    
+loft    
+log cabin    
+loo    
+lounge    
+lounge chair    
+mailbox    
+main    
+maisonette    
+man cave    
+manor    
+manse    
+mansion    
+mantelpiece    
+manufactured home    
+mat    
+mews house    
+mezzanine    
+mirror    
+mobile home    
+mod con    
+mop    
+mop    
+mortgage    
+mortgage    
+mortgage bond    
+moulding    
+move    
+move    
+mudroom    
+mural    
+negative equity    
+new build    
+notice    
+nursery    
+occupancy    
+occupation    
+occupier    
+occupy    
+offer    
+office    
+open-plan    
+ornament    
+ornament    
+outdoor    
+outdoorsad    
+owner-occupier    
+pail    
+paint    
+paint    
+palace    
+panic room    
+pantry    
+paperwork    
+partition    
+passage    
+pattern    
+patterned    
+picture    
+picture rail    
+pile    
+plain    
+playroom    
+plug    
+plughole    
+plunger    
+poker    
+polish    
+polish    
+porch    
+power point    
+prefab    
+property ladder    
+public housing    
+purchase    
+quantity surveyor    
+radiator    
+rate    
+real estate    
+Realtor    
+realty    
+reception room    
+recliner    
+recreation room    
+rec room    
+redecorate    
+redecoration    
+refrigerator    
+refuge    
+remortgage    
+remote control    
+removal van    
+remover    
+renew    
+rent    
+rent    
+rental    
+rent-freead    
+rent-free    
+repayment    
+repossess    
+repossession    
+residential    
+residents’ association    
+rocking chair    
+roof    
+rooftop    
+room    
+roomer    
+roomie    
+rooming house    
+room-mate    
+rota    
+rug    
+safe room    
+satellite dish    
+sauna    
+savings and loan association    
+scrubbing brush    
+second home    
+security deposit    
+sell    
+semi-detached    
+settee    
+shabby chic    
+shabby chic    
+shelf    
+shelter    
+shower    
+shutter    
+sideboard    
+sink    
+sitting room    
+skirting board    
+skylight    
+smoke alarm    
+social housing    
+socket    
+sofa    
+soft furnishings    
+soil pipe    
+solar panel    
+split-level    
+spring-clean    
+spring cleaning    
+squat    
+squatter    
+stair    
+staircase    
+stairwell    
+stately home    
+step    
+stilt    
+stool    
+stoop    
+storage heater    
+storeroom    
+storey    
+stove    
+strip    
+studio    
+study    
+sublease    
+sublet    
+suite    
+summer house    
+survey    
+survey    
+sweep    
+table    
+telephone    
+television    
+tenant    
+terminate    
+terrace    
+terraced    
+terraced house    
+thatch    
+thermostat    
+threshold    
+tile    
+title deed    
+title-holder    
+toilet    
+town house    
+tumble dryer    
+two-up two-down    
+unfurnished    
+unit 
+up for sale   
+for sale
+upstairsad    
+upstairs    
+upstairs    
+utility room    
+vacant    
+vacant possession    
+vacuum    
+vacuum cleaner    
+vase    
+vendor    
+vent    
+ventilator    
+veranda    
+villa    
+wall    
+wallpaper    
+wallpaper    
+wardro   
+wash    
+washbasin    
+washing    
+washing machine    
+washing-up    
+wash up 
+weathervane    
+Welsh dresser    
+white goods    
+window    
+window ledge    
+windowsill    
+worktop    
+yurt    
+zapper

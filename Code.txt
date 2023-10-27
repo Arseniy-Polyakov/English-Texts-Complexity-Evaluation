@@ -1,0 +1,254 @@
+# Importing modules for NLP 
+import re
+import nltk
+import spacy
+nlp = spacy.load("en_core_web_sm")
+
+# Importing ML modules for NER
+import flair
+from flair.data import Sentence 
+from flair.models import SequenceTagger
+tagger = SequenceTagger.load("flair/ner-english")
+
+# Importing modules for data visualization 
+import matplotlib.pyplot as plt 
+
+# Importing a module for time founding 
+import time 
+
+# A startpoint of the program 
+start = time.time()
+
+# Reading words classified by CEFR levels (from A1 to C1) from the files, creating lists of words without POS-tags
+with open("Лексика А1.txt", "rt", encoding = "utf-8") as file:
+    text_A1 = file.read()
+    text_A1 = re.sub(r"[\n]", " ", text_A1)
+    words_with_tags_A1 = text_A1.split()
+    words_without_tags_A1 = [words_with_tags_A1[i] for i in range(len(words_with_tags_A1)) if i % 2 == 0]
+
+with open("Лексика А2.txt", "rt", encoding = "utf-8") as file:
+    text_A2 = file.read()
+    text_A2 = re.sub(r"[\n]", " ", text_A2)
+    words_with_tags_A2 = text_A2.split()
+    words_without_tags_A2 =[words_with_tags_A2[i] for i in range(len(words_with_tags_A2)) if i % 2 == 0]
+
+with open("Лексика В1.txt", "rt", encoding = "utf-8") as file:
+    text_B1 = file.read()
+    text_B1 = re.sub(r"[\n]", " ", text_B1)
+    words_with_tags_B1 = text_B1.split()
+    words_without_tags_B1 =[words_with_tags_B1[i] for i in range(len(words_with_tags_B1)) if i % 2 == 0]
+
+with open("Лексика В2.txt", "rt", encoding = "utf-8") as file:
+    text_B2 = file.read()
+    text_B2 = re.sub(r"[\n]", " ", text_B2)
+    words_with_tags_B2 = text_B2.split()
+    words_without_tags_B2 = [words_with_tags_B2[i] for i in range(len(words_with_tags_B2)) if i % 2 == 0]
+
+with open("Лексика С1.txt", "rt", encoding = "utf-8") as file:
+    text_C1 = file.read()
+    text_C1 = re.sub(r"[\n]", " ", text_C1)
+    words_with_tags_C1 = text_C1.split()
+    words_without_tags_C1 = [words_with_tags_C1[i] for i in range(len(words_with_tags_C1)) if i % 2 == 0]
+
+# Creating a set with unique A1 lexis according to the CEFR
+words_unique_A1_final = words_without_tags_A1
+
+# Creating a set with unique A2 lexis according to the CEFR
+words_unique_A2_final = set(words_without_tags_A2) - set(words_without_tags_A1)
+
+# Creating a set with unique B1 lexis according to the CEFR
+words_unique_B1_final = set(words_without_tags_B1) - set(words_without_tags_A1)
+words_unique_B1_final = set(words_unique_B1_final) - set(words_without_tags_A2)
+
+# Creating a set with unique B2 lexis according to the CEFR
+words_unique_B2 = set(words_without_tags_B2) - set(words_without_tags_A1)
+words_unique_B2_medium = set(words_unique_B2) - set(words_without_tags_A2)
+words_unique_B2_final = set(words_unique_B2_medium) - set(words_without_tags_B1)
+
+# Creating a set with unique C1 lexis according to the CEFR
+words_unique_C1 = set(words_without_tags_C1) - set(words_without_tags_A1)
+words_unique_C1_medium = set(words_unique_C1) - set(words_without_tags_A2)
+words_unique_C1_pre_final= set(words_unique_C1_medium) - set(words_without_tags_B1)
+words_unique_C1_final= set(words_unique_C1_pre_final) - set(words_without_tags_B2)
+
+# Creating lists with unique A1-C1 lexis according to the CEFR
+words_unique_A1_final = list(words_unique_A1_final)
+words_unique_A2_final = list(words_unique_A2_final)
+words_unique_B1_final = list(words_unique_B1_final)
+words_unique_B2_final = list(words_unique_B2_final)
+words_unique_C1_final = list(words_unique_C1_final)
+
+# Reading collocations from files classified by CEFR levels (from A1 to C1)
+with open("Коллокации А1.txt", "rt", encoding = "utf-8") as file:
+    collocations_A1_without_tags = [line.strip() for line in file]
+
+with open("Коллокации А2.txt", "rt", encoding = "utf-8") as file:
+    collocations_A2_without_tags = [line.strip() for line in file]
+
+with open("Коллокации В1.txt", "rt", encoding = "utf-8") as file:
+    collocations_B1_without_tags = [line.strip() for line in file]
+
+with open("Коллокации В2.txt", "rt", encoding = "utf-8") as file:
+    collocations_B2_without_tags = [line.strip() for line in file]
+
+with open("Коллокации С1.txt", "rt", encoding = "utf-8") as file:
+    collocations_C1_without_tags = [line.strip() for line in file]
+
+# Opening the File with NLTK Stopwords 
+with open("NLTK_stopwords.txt", "rt", encoding = "utf-8") as file:
+    stop_words = file.read()
+    stop_words = re.sub(r"[\n]", " ", stop_words)
+    stop_words_in_the_text = stop_words.split()
+
+# Reading the Text from the File for Analysis
+with open("text_for_analysis.txt", "rt", encoding = "utf-8") as file:
+    
+    # Getting rid of tabulation symbols. Segmentation
+    text = [line.strip().lower() for line in file]
+    text_string = " ".join(text)
+    text_without_punct = re.sub(r"[^A-Za-z ]", "", text_string)
+    
+    # Tokenization and Lemmatization 
+    document = nlp(text_without_punct)
+    text_for_analysis = [token.lemma_ for token in document]
+    text_by_words = nltk.word_tokenize(text_without_punct)
+
+    # Getting rid of stopwords  
+    text_for_analysis_final = [text_for_analysis[i] for i in range(len(text_for_analysis)) if text_for_analysis[i] not in stop_words]
+
+    # Finding Named Entities in the Text 
+    named_entities = Sentence(text_for_analysis_final)
+    tagger.predict(named_entities)
+    named_entities_in_the_text = [i for i in named_entities.get_spans("ner")]
+        
+# Classifying words according to the CEFR levels (from A1 to C1)
+words_A1_in_the_text = [text_for_analysis_final[i] for i in range(len(text_for_analysis_final)) for j in range(len(words_unique_A1_final)) if text_for_analysis_final[i] == words_unique_A1_final[j]]
+words_A2_in_the_text = [text_for_analysis_final[i] for i in range(len(text_for_analysis_final)) for j in range(len(words_unique_A2_final)) if text_for_analysis_final[i] == words_unique_A2_final[j]]
+words_B1_in_the_text = [text_for_analysis_final[i] for i in range(len(text_for_analysis_final)) for j in range(len(words_unique_B1_final)) if text_for_analysis_final[i] == words_unique_B1_final[j]]
+words_B2_in_the_text = [text_for_analysis_final[i] for i in range(len(text_for_analysis_final)) for j in range(len(words_unique_B2_final)) if text_for_analysis_final[i] == words_unique_B2_final[j]]
+words_C1_in_the_text = [text_for_analysis_final[i] for i in range(len(text_for_analysis_final)) for j in range(len(words_unique_C1_final)) if text_for_analysis_final[i] == words_unique_C1_final[j]]
+
+# Counting a number of words by CEFR levels (from A1 to C1)
+words_in_the_text = len(text_for_analysis_final) 
+A1_number = len(words_A1_in_the_text)
+A2_number = len(words_A2_in_the_text)
+B1_number = len(words_B1_in_the_text)
+B2_number = len(words_B2_in_the_text)
+C1_number = len(words_C1_in_the_text)
+overall_number = (A1_number + A2_number + B1_number + B2_number + C1_number)
+NE_number = len(named_entities_in_the_text)
+
+# Counting a percentage by CEFR levels (from A1 to C1)
+percent_A1 = (A1_number * 100) / words_in_the_text
+percent_A2 = (A2_number * 100) / words_in_the_text
+percent_B1 = (B1_number * 100) / words_in_the_text
+percent_B2 = (B2_number * 100) / words_in_the_text
+percent_C1 = (C1_number * 100) / words_in_the_text
+percent_overall = (percent_A1 + percent_A2 + percent_B1 + percent_B2 + percent_C1)
+percent_NE = (NE_number * 100) / words_in_the_text
+percent_missing = 100 - percent_A1 - percent_A2 - percent_B1 - percent_B2 - percent_C1 - percent_NE
+
+# Classifying collocations by the CEFR levels in the text
+collocations_A1_in_the_text = [collocations_A1_without_tags[i] for i in range(len(collocations_A1_without_tags)) if collocations_A1_without_tags[i] in text_without_punct]
+collocations_A2_in_the_text = [collocations_A2_without_tags[i] for i in range(len(collocations_A2_without_tags)) if collocations_A2_without_tags[i] in text_without_punct]
+collocations_B1_in_the_text = [collocations_B1_without_tags[i] for i in range(len(collocations_B1_without_tags)) if collocations_B1_without_tags[i] in text_without_punct]
+collocations_B2_in_the_text = [collocations_B2_without_tags[i] for i in range(len(collocations_B2_without_tags)) if collocations_B2_without_tags[i] in text_without_punct]
+collocations_C1_in_the_text = [collocations_C1_without_tags[i] for i in range(len(collocations_C1_without_tags)) if collocations_C1_without_tags[i] in text_without_punct]
+
+# Counting a number of collocations by the CEFR levels in the text
+A1_number_collocations = len(collocations_A1_in_the_text)
+A2_number_collocations = len(collocations_A2_in_the_text)
+B1_number_collocations = len(collocations_B1_in_the_text)
+B2_number_collocations = len(collocations_B2_in_the_text)
+C1_number_collocations = len(collocations_C1_in_the_text)
+
+# Printing general statistics of the text
+print()
+print("A number of sentences in the text:", len(nltk.sent_tokenize(text_string)))
+print("A number of words (without stopwords) in the text:", words_in_the_text)
+print()
+
+#Printing a number of words in the text classified by CEFR
+print("A1 words in the text:", A1_number)
+print("A2 words in the text:", A2_number)
+print("B1 words in the text:", B1_number)
+print("B2 words in the text:", B2_number)
+print("C1 words in the text:", C1_number)
+print()
+print("Overall number of words classfied by CEFR in the text: ", overall_number, " / ", words_in_the_text, sep="")
+print()
+
+# Printing a percentage of words in the text class classified by CEFR
+print("Percentage of the A1 words in the text: ", round(percent_A1, 2), " %", sep="")
+print("Percentage of the A2 words in the text: ", round(percent_A2, 2), " %", sep="")
+print("Percentage of the B1 words in the text: ", round(percent_B1, 2), " %", sep="")
+print("Percentage of the B2 words in the text: ", round(percent_B2, 2), " %", sep="")
+print("Percentage of the C1 words in the text: ", round(percent_C1, 2), " %", sep="")
+print()
+print("Overall percentage of words (from A1 to C1) in the text: ", round(percent_overall, 2), " %", " / ", "100 %", sep="")
+print()
+
+# Printing a number and a percentage of Named Entities in the text
+print("A number of Named Entities in the text: ", NE_number)
+print("A percentage of Named Entities in the text: ", round(percent_NE, 2), "% / 100 %")
+print()
+
+# Printing a number and a perentage of unindentified words in the text
+print("An overall number of indentified words in the text:", overall_number + NE_number)
+print("An overall percentage of indentified words in the text:", round(percent_overall + percent_NE, 2), "% / 100 %")
+print()
+
+# Printing a number and a percentage of unindentrified words in the text
+print("A number of unindentified words in the text:", words_in_the_text - overall_number)
+print("A percentage of unindentified words in the text:", round(100 - percent_overall - percent_NE, 2), "%")
+print()
+
+# Printing a number of collocations in the text classified by CEFR levels 
+print("A1 collocations in the text:", A1_number_collocations)
+print("A2 collocations in the text:", A2_number_collocations)
+print("B1 collocations in the text:", B1_number_collocations)
+print("B2 collocations in the text:", B2_number_collocations)
+print("C1 collocations in the text:", C1_number_collocations)
+
+# Results visualization. Words 
+CEFR_levels = ["A1", "A2", "B1", "B2", "C1"]
+words = [A1_number, A2_number, B1_number, B2_number, C1_number]
+
+plt.bar(CEFR_levels, words)
+plt.xlabel("CEFR levels")
+plt.ylabel("A number of words")
+plt.title("A Number of Words Classified by Levels (from A1 to C1) According to the CEFR")
+
+plt.legend()
+plt.show()
+
+# Results visualization. Collocations
+CEFR_levels = ["A1", "A2", "B1", "B2", "C1"]
+collocations = [A1_number_collocations, A2_number_collocations, B1_number_collocations, B2_number_collocations, C1_number_collocations]
+
+plt.bar(CEFR_levels, collocations)
+plt.xlabel("CEFR Levels")
+plt.ylabel("A Number of Collocations")
+plt.title("A Number of Collocations in the Text Classified by CEFR")
+
+plt.legend()
+plt.show()
+
+# Results visualization. Percentage of words
+explode = (0, 0, 0, 0, 0, 0, 0.1)
+fig, ax = plt.subplots()
+
+percent = [percent_A1, percent_A2, percent_B1, percent_B2, percent_C1, percent_NE, percent_missing]
+CEFR_levels_pie = "A1", "A2", "B1", "B2", "C1", "NE", "Unindentified words"
+ax.pie(percent, explode=explode, labels=CEFR_levels_pie, shadow=True, startangle=90, pctdistance=1.25, labeldistance=.6)
+
+plt.legend()
+plt.show()
+
+# Ending of the program
+end = time.time() - start
+
+# Dispaying program time
+print()
+print("Running time:", round(end, 2), "sec.")
+

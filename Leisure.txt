@@ -1,0 +1,691 @@
+ace    
+achievement    
+adventure game    
+arcade    
+avatar    
+baccarat    
+backgammon    
+bagatelle    
+ball    
+ball game    
+balloon    
+billiards    
+bingo    
+bishop    
+blackjack    
+blind man’s buff    
+board    
+board game    
+boule    
+bowl    
+bowling    
+bowling green    
+bridge    
+building block    
+camp    
+canasta    
+card    
+card game    
+casino    
+castle    
+cat’s cradle    
+charade    
+cheat    
+cheat    
+check    
+checkers    
+chess    
+chessman    
+Chinese chequers    
+Chutes and Ladders    
+climbing frame    
+club    
+computer game    
+conker    
+console    
+counter    
+cribbage    
+croquet    
+cross-play    
+crossword    
+cutscene    
+dart    
+dartboard    
+deal    
+dealer    
+diamond    
+dice    
+dodgeball    
+doll    
+doll’s house    
+domino    
+draught    
+Easter egg    
+escape room    
+experience points    
+fidget spinner    
+first-person shooter    
+follow-the-leader    
+foosball    
+FPS    
+frag    
+Frisbee    
+fun    
+game    
+game controller    
+gamepad    
+gameplay    
+games console    
+gin rummy    
+glove puppet    
+go    
+gold farming    
+grand slam    
+guessing game    
+hand    
+handball    
+hand puppet    
+hangman    
+heart    
+hide-and-seek    
+hoop    
+hopscotch    
+hula hoop    
+I-spy    
+jack    
+jigsaw    
+joker    
+joypad    
+jump rope    
+jungle gym    
+king    
+kite    
+knight    
+lawn bowling    
+leapfrog    
+Lego    
+leisure centre    
+level    
+level up 
+lose    
+loser    
+lotto    
+lucky dip    
+ludo    
+mahjong    
+marble    
+merry-go-round    
+monkey in the middle    
+monopoly    
+move    
+MUD    
+musical bumps    
+musical chairs    
+non-player character    
+noughts and crosses    
+NPC    
+opponent    
+outad    
+pack    
+paintball    
+paperchase    
+parlour game    
+pawn    
+peekaboo    
+peep-bo    
+Pelmanism    
+pelota    
+piece    
+piggy in the middle    
+pinball    
+ping-pong    
+piñata    
+platform game    
+play    
+play    
+play chicken
+player    
+playground    
+playing card    
+playtime    
+plush toy    
+poker    
+pool    
+postman’s knock    
+puppet    
+puzzle    
+pwn    
+pwnage    
+pétanque    
+queen    
+quiz    
+racquetball    
+rag doll    
+rattle    
+replayability    
+replayable    
+replay value    
+respawn    
+riddle    
+ring-a-ring roses    
+rocking horse    
+role-playing game    
+roulette    
+roundabout    
+RPG    
+rule    
+rummy    
+sandbox    
+sandpit    
+score    
+score    
+scoreboard    
+Scrabble    
+see-saw    
+shoot em-up    
+shuffle    
+sim    
+Simon says    
+skateboard    
+skipping rope    
+skittle    
+slide    
+snakes and ladders    
+snap    
+snooker    
+soft play    
+soft toy    
+solitaire    
+square    
+stalemate    
+stuffed animal    
+suit    
+swing    
+table football    
+table tennis    
+tag    
+team    
+team handball    
+teddy bear    
+teeter-totter    
+tenpin bowling    
+three-card trick    
+tic-tac-toe    
+tiddlywinks    
+tie    
+tie    
+tig    
+toboggan    
+tombola    
+toy    
+trampoline    
+treasure hunt    
+trump    
+turn    
+video game    
+war game    
+whist    
+win    
+winner    
+winning    
+world    
+yo-yo
+activity    
+amateur dramatics    
+angler    
+angling    
+art    
+astrology    
+ballroom dancing    
+basketry    
+basketwork    
+birder    
+birding    
+birdwatcher    
+birdwatching    
+bonsai    
+brass rubbing    
+bricolage    
+bullfight    
+calligraphy    
+cartography    
+ceramic    
+climb    
+climbing    
+clubbing    
+collage    
+collector    
+community theater    
+compass    
+cookery    
+cooking    
+cosplay    
+cosplay    
+cosplayer    
+craft    
+craft    
+crochet    
+cryptography    
+dance    
+dance    
+dancer    
+dancing    
+dive    
+drama    
+drawing    
+embroider    
+embroidery    
+engraving    
+explore    
+fieldcraft    
+fish    
+fisherman    
+fishing    
+fishing rod    
+flower arranging    
+footpath    
+gardening    
+gastronomy    
+glass-blowing    
+hack    
+handcraft    
+handicraft    
+hide    
+hike    
+hike    
+hiking    
+hillwalking    
+hobby    
+horology    
+horseback riding    
+horse riding    
+interest    
+jog    
+jogger    
+jogging    
+knit    
+knitting    
+leisure    
+magnetic compass    
+modelling    
+mountain bike    
+mountain biking    
+music    
+national park    
+nature reserve    
+needlecraft    
+oil painting    
+orienteering    
+origami    
+paddle    
+painting    
+palmistry    
+pastiche    
+pastime    
+photography    
+poetics    
+poetry    
+pony-trekking    
+portraiture    
+pottery    
+ramble    
+ramble    
+rambling    
+reading    
+relax    
+reserve    
+riding    
+right of way    
+roam    
+Rollerblade    
+roller skate    
+safari park    
+sculpture    
+sew    
+sewing    
+shopping    
+skateboarding    
+snorkel    
+snorkel    
+spare    
+stamp collecting    
+sudoku    
+tapestry    
+taxidermy    
+topiary    
+track    
+trail    
+wade    
+walking    
+wander    
+woodwork    
+word search    
+writing    
+yoga    
+zoo    
+Zumba
+accessory    
+account    
+afford    
+aisle    
+antique    
+appliance    
+article    
+assistant    
+back order    
+back-order    
+bag    
+baker    
+bakery    
+bakeshop    
+banknote    
+barber    
+barcode    
+bargain    
+bargain    
+bargain basement    
+barter    
+barter    
+basket    
+a steal
+bedding    
+sold out 
+best-before date    
+betting shop    
+bid    
+bid    
+bill    
+billing    
+BOGOF    
+book    
+bookie    
+bookmaking    
+bookshop    
+bookstall    
+boutique    
+browse    
+business    
+butcher    
+buy    
+buyer    
+carrier bag    
+cash    
+cash and carry    
+cashback    
+cash desk    
+cashier    
+cash register    
+CCTV    
+center    
+centre    
+chain    
+chain store    
+change    
+charge    
+cheap    
+check card    
+checkout    
+chemist    
+cheque    
+cleaner    
+clerk    
+click and collect    
+close    
+clothing    
+coin    
+comparison-shop    
+comparison shopping    
+comparison site    
+condition    
+confectioner    
+convenience store    
+cookware    
+corner shop    
+cosmetic    
+cost    
+counter    
+couponing    
+craft    
+credit    
+credit card    
+credit note    
+crockery    
+currency    
+customer    
+cutlery    
+debit card    
+debt    
+deli    
+delicatessen    
+deliver    
+delivery    
+denomination    
+department    
+department store    
+digital wallet    
+discount    
+discount    
+display    
+display bin    
+dot-com    
+download    
+downtownad    
+downtown    
+downtown    
+draper    
+dressing room    
+drugstore    
+dry-cleaner’s    
+dummy    
+dump bin    
+duty-free    
+duty-free    
+duty-freead    
+e-cash    
+electrical    
+electronic payment    
+e-payment    
+escalator    
+estate agent    
+e-tailing    
+e-wallet    
+expensive    
+fabric    
+factory shop    
+farmers’ market    
+farm shop    
+fishmonger    
+fitting room    
+florist    
+food hall    
+fragrance    
+free    
+furnishings    
+furniture    
+gadget    
+game    
+garden centre    
+gift    
+gift card    
+gift certificate    
+glassware    
+goods    
+greengrocer    
+grocer    
+grocery    
+haberdashery    
+haggle    
+hairdresser    
+hardware    
+health food    
+helpful    
+high street    
+hypermarket    
+impulse buy    
+impulse buying    
+internet    
+ironmonger    
+item    
+jeweller    
+jewellery    
+kiosk    
+knock-off    
+launderette    
+linen    
+liquor store    
+list    
+loyalty card    
+luggage    
+main street    
+mall    
+mall rat    
+manager    
+mannequin    
+market    
+markup    
+megastore    
+MFA    
+multi-factor authentication    
+music    
+mystery shopper    
+mystery shopping    
+newsagent    
+note    
+offer    
+off-licence    
+off the peg
+online    
+on sale
+optician    
+order    
+order    
+outlet    
+over the counter
+package store    
+packaging    
+p. and h.    
+p. and p.    
+panic buying    
+paper shop    
+password    
+pay    
+payment    
+pedestrian precinct    
+perfume    
+pharmacist    
+pharmacy    
+plaza    
+portal    
+postage    
+precinct    
+pre-order    
+pre-order    
+price    
+price tag    
+product    
+profit margin    
+promotion    
+pull date    
+purchase    
+purchase    
+queue    
+queue    
+rack    
+range    
+rate    
+receipt    
+reduce    
+reduction    
+refund    
+register    
+retail    
+retailad    
+retail    
+retail therapy    
+return    
+safe    
+sale    
+sales clerk    
+salesman    
+sales slip    
+saleswoman    
+salon    
+sample    
+sari-sari store    
+saving    
+self-checkout    
+self-service    
+sell    
+sell-by date    
+seller    
+sell out 
+serve    
+service    
+shelf    
+shipping    
+shoe    
+shop    
+shop    
+shopaholic    
+shop assistant    
+shoplift    
+shoplifter    
+shoplifting    
+shopper    
+shopping    
+shopping bag    
+shopping centre    
+shopping mall    
+shop window    
+short-change    
+showroom    
+showrooming    
+skincare    
+special    
+special offer    
+spend    
+spendthrift    
+spendthrift    
+splurge    
+splurge    
+spree    
+stall    
+stand    
+stationer    
+stationery    
+stock    
+stock    
+stockist    
+stocktaking    
+stock up 
+store    
+store card    
+store window    
+supermarket    
+superstore    
+takings    
+tax    
+technology    
+tester    
+thrift shop    
+till    
+tobacconist    
+toiletries    
+token    
+total    
+town centre    
+toy    
+trade    
+transaction    
+travel agency    
+traveller’s cheque    
+trolley    
+try on 
+unhelpful    
+value    
+voucher    
+wet market    
+white goods    
+wholesale    
+window    
+window shopping
